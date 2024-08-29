@@ -1,0 +1,1856 @@
+Entry No.,Region,Time Slot,Delivery Day,Article Type,Recipient Type,Distance (km),Delivery Attempt,Delivery Success,Special Instructions
+1,Bangalore South,12-2,Tuesday,Package,Business,4.18,2,False,No special instructions
+2,Bangalore East,10-12,Friday,Parcel,Government,4.86,1,True,Leave at doorstep
+3,Bangalore Central,10-12,Thursday,Letter,Business,13.6,1,False,Leave at doorstep
+4,Bangalore Central,12-2,Saturday,Letter,Business,1.39,2,True,Leave at doorstep
+5,Bangalore Central,12-2,Tuesday,Document,Business,3.55,1,False,No special instructions
+6,Bangalore East,12-2,Monday,Document,Government,12.73,1,False,No special instructions
+7,Bangalore Central,3-5,Tuesday,Document,Government,11.33,2,True,Call before delivery
+8,Bangalore South,10-12,Monday,Letter,Government,8.3,2,True,No special instructions
+9,Bangalore East,3-5,Saturday,Document,Individual,15.0,1,False,Leave at doorstep
+10,Bangalore Central,3-5,Wednesday,Package,Individual,7.16,1,True,Call before delivery
+11,Bangalore South,3-5,Thursday,Parcel,Government,5.94,1,False,Call before delivery
+12,Bangalore North,12-2,Saturday,Document,Individual,11.07,1,False,Call before delivery
+13,Bangalore East,3-5,Tuesday,Package,Business,8.4,2,False,Call before delivery
+14,Bangalore East,10-12,Wednesday,Letter,Business,3.62,2,True,Signature required
+15,Bangalore South,10-12,Tuesday,Package,Individual,14.02,2,True,Signature required
+16,Bangalore North,10-12,Saturday,Letter,Business,13.42,1,True,Call before delivery
+17,Bangalore Central,3-5,Thursday,Document,Business,13.79,2,True,Leave at doorstep
+18,Bangalore East,12-2,Wednesday,Document,Business,14.22,2,False,No special instructions
+19,Bangalore East,10-12,Wednesday,Package,Government,6.46,2,True,No special instructions
+20,Bangalore East,10-12,Wednesday,Parcel,Government,8.36,1,True,Call before delivery
+21,Bangalore South,10-12,Tuesday,Parcel,Individual,12.18,1,True,Call before delivery
+22,Bangalore Central,12-2,Wednesday,Parcel,Government,12.2,2,True,No special instructions
+23,Bangalore South,10-12,Tuesday,Document,Government,12.34,1,True,Leave at doorstep
+24,Bangalore East,12-2,Friday,Letter,Government,13.99,1,False,Call before delivery
+25,Bangalore Central,10-12,Thursday,Parcel,Government,4.7,2,True,No special instructions
+26,Bangalore Central,10-12,Wednesday,Letter,Individual,5.28,2,True,Call before delivery
+27,Bangalore Central,10-12,Tuesday,Letter,Government,3.46,2,False,Call before delivery
+28,Bangalore Central,3-5,Friday,Document,Individual,9.85,2,False,Call before delivery
+29,Bangalore North,12-2,Wednesday,Letter,Business,14.04,2,False,No special instructions
+30,Bangalore East,3-5,Wednesday,Document,Government,10.19,1,False,Signature required
+31,Bangalore Central,3-5,Saturday,Package,Government,6.7,2,False,Leave at doorstep
+32,Bangalore South,10-12,Thursday,Parcel,Individual,11.78,2,False,No special instructions
+33,Bangalore East,3-5,Monday,Parcel,Business,7.44,2,False,Leave at doorstep
+34,Bangalore East,12-2,Tuesday,Parcel,Business,5.26,1,True,Call before delivery
+35,Bangalore North,3-5,Thursday,Parcel,Individual,2.52,2,True,Call before delivery
+36,Bangalore North,12-2,Monday,Package,Individual,10.94,2,False,No special instructions
+37,Bangalore South,10-12,Thursday,Document,Individual,9.69,1,True,Signature required
+38,Bangalore Central,10-12,Friday,Document,Government,3.17,2,True,No special instructions
+39,Bangalore North,12-2,Tuesday,Parcel,Individual,10.9,2,False,Leave at doorstep
+40,Bangalore East,12-2,Tuesday,Package,Individual,9.49,1,True,No special instructions
+41,Bangalore South,12-2,Wednesday,Letter,Government,4.71,1,False,No special instructions
+42,Bangalore Central,10-12,Thursday,Document,Business,2.48,2,True,Signature required
+43,Bangalore South,3-5,Thursday,Letter,Business,7.47,2,False,No special instructions
+44,Bangalore Central,10-12,Monday,Parcel,Individual,7.74,1,True,Call before delivery
+45,Bangalore North,10-12,Saturday,Document,Government,5.5,1,False,Signature required
+46,Bangalore East,10-12,Tuesday,Letter,Government,6.61,1,False,Signature required
+47,Bangalore East,12-2,Saturday,Letter,Government,6.97,1,True,Call before delivery
+48,Bangalore East,3-5,Saturday,Package,Individual,6.43,2,True,Leave at doorstep
+49,Bangalore North,10-12,Monday,Document,Government,13.67,1,False,No special instructions
+50,Bangalore East,12-2,Wednesday,Parcel,Business,11.06,2,True,Signature required
+51,Bangalore East,10-12,Friday,Parcel,Individual,7.86,1,True,Signature required
+52,Bangalore South,12-2,Wednesday,Letter,Individual,13.1,2,False,Leave at doorstep
+53,Bangalore North,10-12,Friday,Letter,Government,12.01,2,True,Leave at doorstep
+54,Bangalore East,3-5,Saturday,Letter,Individual,12.92,2,False,Leave at doorstep
+55,Bangalore Central,3-5,Wednesday,Letter,Government,5.13,2,False,No special instructions
+56,Bangalore Central,12-2,Friday,Package,Individual,7.5,1,True,Call before delivery
+57,Bangalore Central,10-12,Wednesday,Letter,Individual,8.33,2,True,No special instructions
+58,Bangalore East,10-12,Saturday,Package,Individual,8.74,1,False,Call before delivery
+59,Bangalore East,10-12,Saturday,Parcel,Business,10.85,1,False,Signature required
+60,Bangalore South,10-12,Monday,Document,Individual,11.34,2,True,Leave at doorstep
+61,Bangalore Central,12-2,Thursday,Parcel,Business,5.38,1,False,Leave at doorstep
+62,Bangalore East,12-2,Friday,Package,Government,9.46,1,False,No special instructions
+63,Bangalore East,12-2,Monday,Document,Business,14.1,2,False,No special instructions
+64,Bangalore East,10-12,Wednesday,Parcel,Government,8.12,2,True,Call before delivery
+65,Bangalore East,10-12,Thursday,Document,Government,1.07,2,False,Signature required
+66,Bangalore South,10-12,Saturday,Parcel,Individual,8.89,2,False,No special instructions
+67,Bangalore Central,3-5,Thursday,Letter,Business,1.82,2,False,No special instructions
+68,Bangalore North,10-12,Tuesday,Letter,Individual,10.41,1,False,Signature required
+69,Bangalore South,3-5,Wednesday,Parcel,Government,1.58,2,True,Call before delivery
+70,Bangalore Central,12-2,Wednesday,Document,Government,2.14,1,True,No special instructions
+71,Bangalore East,12-2,Wednesday,Document,Individual,13.03,2,False,Call before delivery
+72,Bangalore East,3-5,Tuesday,Parcel,Government,1.48,2,True,Leave at doorstep
+73,Bangalore South,12-2,Monday,Letter,Government,6.77,2,True,Call before delivery
+74,Bangalore North,12-2,Monday,Letter,Individual,11.33,2,True,Call before delivery
+75,Bangalore South,10-12,Thursday,Package,Individual,6.22,1,True,Call before delivery
+76,Bangalore South,10-12,Friday,Letter,Individual,7.91,2,False,Leave at doorstep
+77,Bangalore East,10-12,Friday,Package,Government,13.68,2,False,No special instructions
+78,Bangalore Central,3-5,Friday,Package,Business,1.17,1,True,Signature required
+79,Bangalore East,10-12,Friday,Package,Government,7.57,1,False,Signature required
+80,Bangalore Central,3-5,Thursday,Parcel,Business,6.3,2,True,Leave at doorstep
+81,Bangalore Central,10-12,Thursday,Package,Business,2.34,1,False,Leave at doorstep
+82,Bangalore Central,10-12,Wednesday,Document,Business,14.69,2,False,Leave at doorstep
+83,Bangalore Central,12-2,Thursday,Document,Individual,10.95,1,True,Signature required
+84,Bangalore North,10-12,Thursday,Parcel,Business,12.13,1,False,Call before delivery
+85,Bangalore East,12-2,Thursday,Package,Business,11.39,1,False,Leave at doorstep
+86,Bangalore East,12-2,Wednesday,Document,Government,14.31,1,True,Leave at doorstep
+87,Bangalore South,10-12,Friday,Letter,Government,10.68,2,True,Call before delivery
+88,Bangalore Central,3-5,Saturday,Parcel,Individual,6.42,1,False,No special instructions
+89,Bangalore East,12-2,Thursday,Parcel,Individual,8.87,2,True,No special instructions
+90,Bangalore Central,10-12,Thursday,Letter,Individual,9.96,1,True,No special instructions
+91,Bangalore North,3-5,Tuesday,Letter,Individual,8.82,1,True,No special instructions
+92,Bangalore Central,3-5,Monday,Document,Business,2.63,1,False,Signature required
+93,Bangalore Central,3-5,Monday,Package,Business,5.99,2,True,Leave at doorstep
+94,Bangalore South,3-5,Wednesday,Package,Individual,1.66,1,True,No special instructions
+95,Bangalore East,10-12,Wednesday,Letter,Business,12.73,1,False,Leave at doorstep
+96,Bangalore South,12-2,Monday,Letter,Government,10.7,2,True,Leave at doorstep
+97,Bangalore East,12-2,Monday,Package,Government,10.61,1,True,No special instructions
+98,Bangalore East,12-2,Saturday,Letter,Government,13.87,2,False,Signature required
+99,Bangalore South,10-12,Thursday,Letter,Government,11.7,1,False,No special instructions
+100,Bangalore Central,10-12,Wednesday,Package,Business,13.92,2,True,Signature required
+101,Bangalore South,3-5,Monday,Package,Individual,14.99,2,True,Signature required
+102,Bangalore Central,10-12,Thursday,Document,Individual,5.58,2,True,Call before delivery
+103,Bangalore Central,12-2,Thursday,Parcel,Government,12.44,2,False,Call before delivery
+104,Bangalore North,12-2,Thursday,Parcel,Business,7.6,2,True,Leave at doorstep
+105,Bangalore South,12-2,Wednesday,Document,Government,2.42,2,False,No special instructions
+106,Bangalore South,3-5,Tuesday,Package,Individual,9.78,2,False,Leave at doorstep
+107,Bangalore Central,3-5,Tuesday,Letter,Business,10.34,2,False,Call before delivery
+108,Bangalore Central,12-2,Monday,Letter,Business,13.45,2,False,Leave at doorstep
+109,Bangalore South,12-2,Thursday,Document,Business,12.09,1,False,Leave at doorstep
+110,Bangalore North,3-5,Thursday,Document,Business,6.59,1,True,Call before delivery
+111,Bangalore South,10-12,Wednesday,Document,Government,2.98,1,False,Leave at doorstep
+112,Bangalore South,12-2,Friday,Parcel,Government,3.1,1,True,No special instructions
+113,Bangalore North,3-5,Wednesday,Parcel,Business,14.56,2,False,No special instructions
+114,Bangalore East,12-2,Tuesday,Letter,Individual,3.19,2,False,Leave at doorstep
+115,Bangalore East,10-12,Wednesday,Letter,Individual,9.02,1,False,Call before delivery
+116,Bangalore Central,10-12,Wednesday,Package,Government,2.03,1,False,Signature required
+117,Bangalore Central,10-12,Wednesday,Letter,Individual,14.76,1,False,Signature required
+118,Bangalore North,3-5,Wednesday,Parcel,Business,9.17,1,False,Leave at doorstep
+119,Bangalore North,3-5,Monday,Parcel,Government,10.12,1,False,No special instructions
+120,Bangalore North,10-12,Thursday,Letter,Government,12.15,2,True,Leave at doorstep
+121,Bangalore Central,3-5,Friday,Parcel,Government,11.94,1,True,Leave at doorstep
+122,Bangalore South,10-12,Thursday,Letter,Business,12.41,1,True,Signature required
+123,Bangalore Central,3-5,Saturday,Parcel,Individual,14.76,2,True,Leave at doorstep
+124,Bangalore North,3-5,Saturday,Package,Business,2.61,1,True,Signature required
+125,Bangalore Central,12-2,Wednesday,Letter,Government,6.52,2,True,Signature required
+126,Bangalore East,12-2,Friday,Letter,Government,5.48,2,False,Call before delivery
+127,Bangalore North,10-12,Wednesday,Parcel,Government,9.12,2,True,No special instructions
+128,Bangalore North,12-2,Friday,Package,Individual,6.35,2,True,Leave at doorstep
+129,Bangalore North,12-2,Tuesday,Document,Government,8.59,2,False,Signature required
+130,Bangalore East,12-2,Tuesday,Parcel,Business,1.58,2,False,No special instructions
+131,Bangalore East,12-2,Friday,Package,Government,13.24,1,False,Signature required
+132,Bangalore Central,3-5,Saturday,Parcel,Business,9.72,2,False,Call before delivery
+133,Bangalore South,10-12,Tuesday,Parcel,Business,3.77,1,False,Signature required
+134,Bangalore North,3-5,Tuesday,Letter,Individual,3.41,1,True,Leave at doorstep
+135,Bangalore South,10-12,Tuesday,Package,Business,7.4,2,True,Call before delivery
+136,Bangalore North,3-5,Tuesday,Package,Individual,7.75,2,False,Signature required
+137,Bangalore North,3-5,Friday,Package,Government,10.87,1,False,Leave at doorstep
+138,Bangalore East,10-12,Saturday,Document,Individual,12.31,2,True,No special instructions
+139,Bangalore South,3-5,Saturday,Document,Individual,5.25,2,True,Call before delivery
+140,Bangalore Central,12-2,Tuesday,Package,Government,3.78,2,True,Signature required
+141,Bangalore East,3-5,Tuesday,Document,Government,11.88,1,False,Call before delivery
+142,Bangalore East,12-2,Tuesday,Letter,Government,7.67,2,True,Leave at doorstep
+143,Bangalore South,10-12,Tuesday,Letter,Government,7.46,2,True,No special instructions
+144,Bangalore North,12-2,Wednesday,Package,Individual,3.68,1,True,Leave at doorstep
+145,Bangalore Central,10-12,Saturday,Package,Individual,12.54,1,False,Signature required
+146,Bangalore North,3-5,Thursday,Parcel,Government,7.48,2,False,Leave at doorstep
+147,Bangalore East,3-5,Monday,Parcel,Individual,14.07,1,False,Call before delivery
+148,Bangalore Central,12-2,Thursday,Package,Individual,1.04,2,True,Signature required
+149,Bangalore North,12-2,Thursday,Package,Business,5.32,2,False,Signature required
+150,Bangalore North,12-2,Monday,Letter,Business,13.18,2,True,No special instructions
+151,Bangalore South,10-12,Monday,Document,Business,1.13,1,False,Call before delivery
+152,Bangalore North,10-12,Monday,Document,Business,1.64,2,True,No special instructions
+153,Bangalore North,3-5,Tuesday,Letter,Business,12.9,1,True,Leave at doorstep
+154,Bangalore South,12-2,Friday,Parcel,Business,14.99,1,True,Signature required
+155,Bangalore North,3-5,Friday,Letter,Government,8.77,1,False,Call before delivery
+156,Bangalore North,12-2,Monday,Parcel,Business,2.4,1,False,Leave at doorstep
+157,Bangalore East,10-12,Tuesday,Document,Individual,4.81,2,True,Call before delivery
+158,Bangalore East,3-5,Friday,Letter,Government,13.21,2,False,Signature required
+159,Bangalore North,3-5,Friday,Package,Government,12.64,2,True,Signature required
+160,Bangalore South,12-2,Monday,Document,Individual,14.05,2,True,Leave at doorstep
+161,Bangalore South,10-12,Wednesday,Package,Individual,4.25,2,False,Signature required
+162,Bangalore East,12-2,Thursday,Parcel,Government,4.33,1,True,Leave at doorstep
+163,Bangalore North,12-2,Saturday,Document,Business,13.65,1,True,Signature required
+164,Bangalore East,3-5,Monday,Document,Individual,4.48,1,True,Signature required
+165,Bangalore South,3-5,Monday,Document,Government,3.88,1,True,Leave at doorstep
+166,Bangalore Central,12-2,Tuesday,Parcel,Individual,4.24,1,True,Signature required
+167,Bangalore Central,10-12,Friday,Document,Individual,1.88,2,True,No special instructions
+168,Bangalore South,12-2,Monday,Parcel,Government,1.54,2,False,Leave at doorstep
+169,Bangalore North,12-2,Saturday,Parcel,Government,3.49,2,True,Call before delivery
+170,Bangalore Central,3-5,Monday,Parcel,Business,13.2,2,True,Leave at doorstep
+171,Bangalore Central,3-5,Friday,Package,Individual,2.95,1,False,Call before delivery
+172,Bangalore South,12-2,Monday,Document,Business,14.85,1,True,No special instructions
+173,Bangalore East,12-2,Wednesday,Letter,Government,1.24,2,True,Call before delivery
+174,Bangalore South,3-5,Tuesday,Package,Government,6.89,1,True,Signature required
+175,Bangalore Central,10-12,Saturday,Package,Individual,4.43,2,True,Signature required
+176,Bangalore South,10-12,Saturday,Letter,Individual,8.95,2,True,Call before delivery
+177,Bangalore East,10-12,Wednesday,Document,Individual,9.36,2,False,No special instructions
+178,Bangalore South,10-12,Wednesday,Letter,Individual,5.09,2,False,No special instructions
+179,Bangalore Central,10-12,Thursday,Parcel,Individual,3.44,2,False,Call before delivery
+180,Bangalore Central,3-5,Wednesday,Letter,Government,13.69,1,True,Leave at doorstep
+181,Bangalore South,10-12,Friday,Letter,Individual,2.95,1,False,Call before delivery
+182,Bangalore East,10-12,Monday,Package,Business,6.94,2,False,Leave at doorstep
+183,Bangalore South,12-2,Saturday,Package,Government,3.29,1,True,Signature required
+184,Bangalore North,10-12,Saturday,Letter,Individual,8.03,2,False,Leave at doorstep
+185,Bangalore Central,12-2,Monday,Letter,Business,8.28,2,True,No special instructions
+186,Bangalore Central,10-12,Friday,Document,Government,10.41,2,False,Leave at doorstep
+187,Bangalore East,12-2,Thursday,Package,Business,4.53,2,False,Call before delivery
+188,Bangalore South,10-12,Tuesday,Letter,Government,9.73,1,True,Leave at doorstep
+189,Bangalore East,10-12,Tuesday,Parcel,Business,3.17,2,False,Call before delivery
+190,Bangalore Central,3-5,Tuesday,Document,Individual,8.07,2,True,Leave at doorstep
+191,Bangalore East,12-2,Tuesday,Parcel,Business,11.21,2,True,Call before delivery
+192,Bangalore East,3-5,Wednesday,Document,Individual,14.13,2,True,Call before delivery
+193,Bangalore South,12-2,Saturday,Parcel,Government,13.42,2,False,Call before delivery
+194,Bangalore Central,10-12,Thursday,Letter,Business,6.48,2,True,Call before delivery
+195,Bangalore Central,12-2,Saturday,Parcel,Government,14.08,2,False,Leave at doorstep
+196,Bangalore South,10-12,Saturday,Package,Government,3.01,2,True,No special instructions
+197,Bangalore South,10-12,Wednesday,Parcel,Business,11.19,1,False,No special instructions
+198,Bangalore Central,3-5,Wednesday,Package,Individual,1.65,2,True,Call before delivery
+199,Bangalore North,12-2,Friday,Letter,Business,5.19,1,False,Leave at doorstep
+200,Bangalore South,3-5,Wednesday,Package,Individual,7.07,1,False,Signature required
+201,Bangalore North,3-5,Tuesday,Letter,Individual,8.37,2,False,Signature required
+202,Bangalore South,10-12,Wednesday,Package,Government,8.91,2,True,Signature required
+203,Bangalore North,3-5,Friday,Parcel,Government,7.7,1,True,No special instructions
+204,Bangalore East,10-12,Tuesday,Letter,Individual,2.07,1,False,Call before delivery
+205,Bangalore Central,3-5,Tuesday,Parcel,Government,6.22,2,False,No special instructions
+206,Bangalore East,12-2,Monday,Document,Business,12.62,1,False,Call before delivery
+207,Bangalore East,12-2,Friday,Letter,Government,9.43,2,False,Call before delivery
+208,Bangalore East,10-12,Friday,Document,Government,10.6,2,True,Call before delivery
+209,Bangalore Central,10-12,Wednesday,Package,Individual,10.11,2,True,Leave at doorstep
+210,Bangalore Central,12-2,Friday,Parcel,Individual,11.0,1,True,Leave at doorstep
+211,Bangalore South,12-2,Thursday,Package,Individual,1.2,2,True,Signature required
+212,Bangalore Central,10-12,Tuesday,Letter,Individual,3.15,2,False,No special instructions
+213,Bangalore Central,3-5,Thursday,Parcel,Individual,14.3,2,True,Signature required
+214,Bangalore North,3-5,Saturday,Package,Individual,9.54,2,False,Leave at doorstep
+215,Bangalore East,10-12,Wednesday,Parcel,Government,9.65,2,True,No special instructions
+216,Bangalore North,12-2,Wednesday,Document,Government,10.91,2,True,Signature required
+217,Bangalore South,3-5,Thursday,Package,Individual,11.18,1,True,No special instructions
+218,Bangalore South,10-12,Tuesday,Document,Individual,1.84,2,True,Call before delivery
+219,Bangalore Central,3-5,Wednesday,Package,Individual,2.96,2,True,Leave at doorstep
+220,Bangalore South,3-5,Friday,Parcel,Business,6.22,2,True,No special instructions
+221,Bangalore Central,3-5,Wednesday,Letter,Individual,4.64,1,True,Call before delivery
+222,Bangalore North,12-2,Friday,Package,Business,5.51,2,False,Signature required
+223,Bangalore Central,10-12,Monday,Parcel,Individual,9.84,1,True,Signature required
+224,Bangalore Central,12-2,Monday,Letter,Government,12.28,1,False,Leave at doorstep
+225,Bangalore South,10-12,Wednesday,Package,Government,13.77,1,True,Leave at doorstep
+226,Bangalore Central,12-2,Monday,Package,Government,11.8,2,False,Call before delivery
+227,Bangalore East,10-12,Tuesday,Document,Individual,10.74,1,False,Signature required
+228,Bangalore North,10-12,Saturday,Parcel,Business,10.36,1,True,Signature required
+229,Bangalore Central,3-5,Monday,Document,Individual,6.48,1,False,Leave at doorstep
+230,Bangalore Central,12-2,Friday,Document,Individual,2.03,1,True,No special instructions
+231,Bangalore East,3-5,Saturday,Letter,Individual,13.03,1,False,Leave at doorstep
+232,Bangalore North,12-2,Thursday,Package,Government,5.67,2,False,Leave at doorstep
+233,Bangalore Central,12-2,Wednesday,Parcel,Individual,11.65,1,False,No special instructions
+234,Bangalore South,10-12,Wednesday,Document,Business,10.98,1,False,Leave at doorstep
+235,Bangalore East,3-5,Saturday,Document,Business,13.67,1,True,No special instructions
+236,Bangalore North,12-2,Monday,Package,Individual,3.07,2,True,Call before delivery
+237,Bangalore East,3-5,Thursday,Package,Individual,8.43,2,False,Call before delivery
+238,Bangalore South,10-12,Thursday,Letter,Government,11.47,1,False,Call before delivery
+239,Bangalore South,3-5,Saturday,Package,Business,12.53,2,True,No special instructions
+240,Bangalore Central,12-2,Monday,Parcel,Individual,2.25,2,False,Signature required
+241,Bangalore South,10-12,Saturday,Parcel,Government,3.55,1,True,Signature required
+242,Bangalore East,12-2,Thursday,Document,Business,12.49,2,False,Leave at doorstep
+243,Bangalore North,10-12,Monday,Package,Individual,7.04,1,True,Signature required
+244,Bangalore South,3-5,Friday,Package,Government,8.88,1,True,No special instructions
+245,Bangalore South,3-5,Monday,Letter,Individual,5.02,2,False,Call before delivery
+246,Bangalore South,12-2,Thursday,Package,Individual,4.76,2,True,Leave at doorstep
+247,Bangalore South,12-2,Saturday,Letter,Business,13.95,1,False,Signature required
+248,Bangalore North,3-5,Thursday,Package,Business,3.86,1,True,Call before delivery
+249,Bangalore North,3-5,Monday,Document,Government,3.41,1,False,Leave at doorstep
+250,Bangalore North,12-2,Friday,Document,Government,3.66,2,False,Call before delivery
+251,Bangalore East,10-12,Tuesday,Parcel,Government,1.54,2,False,Call before delivery
+252,Bangalore South,12-2,Thursday,Package,Government,4.18,2,True,Signature required
+253,Bangalore North,3-5,Monday,Letter,Individual,7.87,1,False,No special instructions
+254,Bangalore East,10-12,Saturday,Letter,Business,9.08,2,False,Signature required
+255,Bangalore East,12-2,Wednesday,Package,Business,10.72,1,False,No special instructions
+256,Bangalore North,10-12,Monday,Document,Individual,13.47,2,False,Signature required
+257,Bangalore North,10-12,Tuesday,Document,Government,12.56,2,True,Call before delivery
+258,Bangalore East,10-12,Tuesday,Document,Individual,6.58,2,False,Call before delivery
+259,Bangalore North,12-2,Tuesday,Document,Government,9.86,2,True,Leave at doorstep
+260,Bangalore East,12-2,Friday,Letter,Individual,13.42,1,True,Call before delivery
+261,Bangalore East,10-12,Saturday,Package,Individual,7.87,2,False,Signature required
+262,Bangalore South,10-12,Tuesday,Parcel,Government,9.32,2,False,No special instructions
+263,Bangalore South,10-12,Thursday,Package,Individual,13.62,2,True,Leave at doorstep
+264,Bangalore East,10-12,Thursday,Letter,Business,13.35,1,False,Call before delivery
+265,Bangalore North,10-12,Tuesday,Document,Individual,8.85,2,False,Signature required
+266,Bangalore South,3-5,Saturday,Parcel,Individual,8.67,1,True,No special instructions
+267,Bangalore South,10-12,Thursday,Document,Individual,4.9,1,True,Signature required
+268,Bangalore South,12-2,Wednesday,Parcel,Individual,13.16,1,False,Call before delivery
+269,Bangalore East,3-5,Wednesday,Parcel,Individual,14.32,2,True,Signature required
+270,Bangalore North,10-12,Monday,Package,Individual,7.29,1,False,Leave at doorstep
+271,Bangalore East,12-2,Saturday,Package,Individual,6.15,1,False,Signature required
+272,Bangalore North,10-12,Tuesday,Letter,Individual,4.09,1,True,No special instructions
+273,Bangalore East,10-12,Saturday,Parcel,Government,10.93,1,False,No special instructions
+274,Bangalore East,3-5,Friday,Document,Government,1.97,2,True,Call before delivery
+275,Bangalore Central,10-12,Thursday,Document,Business,9.02,2,False,Signature required
+276,Bangalore East,10-12,Thursday,Letter,Individual,8.03,1,True,No special instructions
+277,Bangalore South,10-12,Tuesday,Parcel,Business,5.54,2,True,Leave at doorstep
+278,Bangalore South,12-2,Saturday,Parcel,Individual,4.54,1,False,Leave at doorstep
+279,Bangalore Central,12-2,Monday,Parcel,Government,14.9,1,True,Signature required
+280,Bangalore Central,10-12,Tuesday,Package,Business,14.42,1,False,Call before delivery
+281,Bangalore East,10-12,Thursday,Document,Individual,7.85,1,False,Leave at doorstep
+282,Bangalore East,3-5,Thursday,Package,Business,13.38,1,True,Call before delivery
+283,Bangalore South,3-5,Tuesday,Letter,Individual,13.07,2,True,Leave at doorstep
+284,Bangalore Central,3-5,Tuesday,Document,Individual,12.99,1,True,No special instructions
+285,Bangalore North,12-2,Monday,Letter,Individual,10.38,1,True,Signature required
+286,Bangalore Central,12-2,Thursday,Document,Government,13.07,1,False,Call before delivery
+287,Bangalore East,12-2,Friday,Parcel,Business,7.8,1,True,Call before delivery
+288,Bangalore South,10-12,Wednesday,Package,Government,3.91,2,False,Call before delivery
+289,Bangalore South,10-12,Thursday,Parcel,Government,14.46,1,False,Signature required
+290,Bangalore Central,12-2,Monday,Parcel,Government,9.91,1,False,Leave at doorstep
+291,Bangalore South,12-2,Thursday,Document,Government,12.18,1,True,Signature required
+292,Bangalore Central,3-5,Wednesday,Letter,Business,10.19,1,False,Call before delivery
+293,Bangalore East,10-12,Wednesday,Letter,Government,4.43,1,False,Call before delivery
+294,Bangalore South,12-2,Wednesday,Package,Individual,3.37,1,False,Call before delivery
+295,Bangalore East,10-12,Thursday,Package,Individual,5.23,1,True,Signature required
+296,Bangalore North,12-2,Monday,Letter,Business,14.79,1,False,Leave at doorstep
+297,Bangalore Central,12-2,Thursday,Parcel,Individual,7.4,2,False,Signature required
+298,Bangalore North,3-5,Saturday,Letter,Government,3.25,1,False,Leave at doorstep
+299,Bangalore East,3-5,Tuesday,Document,Individual,12.91,2,True,No special instructions
+300,Bangalore North,3-5,Friday,Package,Business,9.95,1,False,Leave at doorstep
+301,Bangalore North,12-2,Tuesday,Document,Government,2.05,2,False,Signature required
+302,Bangalore Central,12-2,Thursday,Letter,Government,6.5,1,False,No special instructions
+303,Bangalore North,10-12,Wednesday,Letter,Business,8.92,1,True,No special instructions
+304,Bangalore East,10-12,Friday,Parcel,Government,8.62,2,False,Call before delivery
+305,Bangalore North,3-5,Tuesday,Package,Business,14.21,2,True,Call before delivery
+306,Bangalore East,10-12,Tuesday,Package,Business,8.91,2,True,Leave at doorstep
+307,Bangalore South,12-2,Thursday,Document,Business,3.11,1,False,No special instructions
+308,Bangalore South,10-12,Monday,Parcel,Business,13.11,1,True,Call before delivery
+309,Bangalore South,12-2,Saturday,Package,Business,2.59,1,True,Call before delivery
+310,Bangalore Central,10-12,Wednesday,Package,Individual,4.03,2,False,No special instructions
+311,Bangalore South,3-5,Tuesday,Document,Business,3.3,2,True,Signature required
+312,Bangalore East,3-5,Thursday,Document,Individual,2.97,1,True,Signature required
+313,Bangalore North,3-5,Monday,Package,Business,1.35,2,False,Call before delivery
+314,Bangalore Central,3-5,Thursday,Parcel,Individual,9.02,2,False,No special instructions
+315,Bangalore North,10-12,Saturday,Parcel,Business,8.14,1,False,Call before delivery
+316,Bangalore East,3-5,Tuesday,Package,Individual,11.85,1,True,Leave at doorstep
+317,Bangalore North,12-2,Saturday,Parcel,Business,10.03,1,False,No special instructions
+318,Bangalore East,3-5,Tuesday,Document,Individual,7.09,2,False,No special instructions
+319,Bangalore South,10-12,Tuesday,Letter,Individual,10.05,2,False,Call before delivery
+320,Bangalore Central,3-5,Friday,Package,Business,1.28,2,False,Leave at doorstep
+321,Bangalore Central,3-5,Friday,Parcel,Individual,6.8,2,True,Call before delivery
+322,Bangalore Central,3-5,Tuesday,Document,Government,11.54,2,True,Leave at doorstep
+323,Bangalore East,3-5,Saturday,Package,Government,5.66,1,True,Signature required
+324,Bangalore North,3-5,Monday,Document,Individual,7.54,1,True,Call before delivery
+325,Bangalore South,3-5,Friday,Document,Individual,4.84,1,True,No special instructions
+326,Bangalore East,12-2,Thursday,Document,Business,8.42,2,True,Leave at doorstep
+327,Bangalore East,3-5,Friday,Document,Government,3.42,2,True,Call before delivery
+328,Bangalore North,3-5,Monday,Letter,Individual,13.53,2,True,Call before delivery
+329,Bangalore East,3-5,Thursday,Letter,Business,1.87,2,False,No special instructions
+330,Bangalore Central,10-12,Wednesday,Document,Individual,14.17,2,True,No special instructions
+331,Bangalore East,3-5,Thursday,Package,Business,1.09,2,True,Signature required
+332,Bangalore East,10-12,Saturday,Letter,Business,1.98,1,True,Leave at doorstep
+333,Bangalore South,10-12,Friday,Package,Business,8.1,1,True,No special instructions
+334,Bangalore North,3-5,Wednesday,Document,Government,2.4,2,False,No special instructions
+335,Bangalore Central,3-5,Tuesday,Package,Individual,11.41,2,True,No special instructions
+336,Bangalore North,3-5,Monday,Parcel,Individual,5.08,1,True,Call before delivery
+337,Bangalore Central,3-5,Tuesday,Document,Individual,5.66,2,True,Call before delivery
+338,Bangalore East,3-5,Monday,Parcel,Individual,7.82,2,False,Leave at doorstep
+339,Bangalore North,12-2,Friday,Letter,Government,10.44,1,True,Call before delivery
+340,Bangalore Central,12-2,Tuesday,Package,Business,11.75,2,True,Call before delivery
+341,Bangalore Central,3-5,Monday,Package,Government,12.24,2,True,No special instructions
+342,Bangalore South,3-5,Thursday,Letter,Government,13.01,2,True,Leave at doorstep
+343,Bangalore East,3-5,Thursday,Package,Government,10.25,1,True,Call before delivery
+344,Bangalore Central,12-2,Saturday,Parcel,Business,2.44,2,True,Call before delivery
+345,Bangalore East,10-12,Tuesday,Letter,Business,8.44,1,True,Signature required
+346,Bangalore North,10-12,Wednesday,Document,Government,11.46,2,False,Leave at doorstep
+347,Bangalore North,12-2,Monday,Parcel,Individual,14.13,1,False,Signature required
+348,Bangalore East,3-5,Tuesday,Package,Individual,1.62,2,False,Signature required
+349,Bangalore East,12-2,Thursday,Parcel,Individual,1.43,1,True,No special instructions
+350,Bangalore East,3-5,Tuesday,Document,Individual,6.94,1,True,Signature required
+351,Bangalore North,10-12,Wednesday,Document,Government,8.26,2,False,Call before delivery
+352,Bangalore North,12-2,Thursday,Parcel,Individual,1.88,2,True,Leave at doorstep
+353,Bangalore East,12-2,Wednesday,Parcel,Business,3.85,1,True,Leave at doorstep
+354,Bangalore East,3-5,Monday,Parcel,Business,13.12,1,True,No special instructions
+355,Bangalore East,12-2,Wednesday,Document,Government,2.56,2,True,No special instructions
+356,Bangalore East,12-2,Saturday,Document,Individual,12.71,2,False,Signature required
+357,Bangalore North,3-5,Tuesday,Letter,Individual,11.08,1,True,Call before delivery
+358,Bangalore South,12-2,Saturday,Package,Business,13.38,2,True,No special instructions
+359,Bangalore East,12-2,Tuesday,Document,Business,9.8,1,True,Call before delivery
+360,Bangalore South,3-5,Wednesday,Parcel,Government,3.44,1,True,Signature required
+361,Bangalore East,3-5,Saturday,Document,Government,14.96,2,True,Call before delivery
+362,Bangalore Central,10-12,Tuesday,Document,Government,4.55,1,False,Leave at doorstep
+363,Bangalore Central,10-12,Monday,Letter,Individual,11.51,2,True,No special instructions
+364,Bangalore Central,12-2,Tuesday,Package,Business,10.97,2,True,Signature required
+365,Bangalore East,10-12,Saturday,Package,Government,11.46,2,False,Call before delivery
+366,Bangalore North,10-12,Monday,Package,Government,15.0,2,False,Call before delivery
+367,Bangalore South,12-2,Monday,Document,Business,12.01,1,True,Leave at doorstep
+368,Bangalore Central,12-2,Wednesday,Package,Business,14.39,1,False,Call before delivery
+369,Bangalore South,12-2,Tuesday,Package,Business,14.76,1,False,Signature required
+370,Bangalore East,3-5,Wednesday,Parcel,Individual,12.69,2,True,No special instructions
+371,Bangalore Central,10-12,Wednesday,Letter,Individual,4.09,2,True,Signature required
+372,Bangalore East,12-2,Tuesday,Document,Business,6.95,1,True,Call before delivery
+373,Bangalore East,10-12,Monday,Package,Business,11.58,1,False,No special instructions
+374,Bangalore East,10-12,Thursday,Package,Individual,2.83,1,False,Call before delivery
+375,Bangalore Central,10-12,Thursday,Document,Business,1.51,1,False,Leave at doorstep
+376,Bangalore Central,3-5,Monday,Package,Government,5.56,1,True,No special instructions
+377,Bangalore South,3-5,Saturday,Package,Government,8.8,1,False,Call before delivery
+378,Bangalore Central,10-12,Saturday,Letter,Government,10.2,1,False,Call before delivery
+379,Bangalore Central,12-2,Thursday,Document,Business,10.37,2,False,Leave at doorstep
+380,Bangalore North,10-12,Saturday,Parcel,Individual,2.77,1,True,Signature required
+381,Bangalore Central,10-12,Wednesday,Document,Government,6.17,2,False,No special instructions
+382,Bangalore East,3-5,Saturday,Parcel,Government,11.11,2,False,No special instructions
+383,Bangalore South,12-2,Friday,Letter,Business,10.51,1,True,Leave at doorstep
+384,Bangalore Central,12-2,Wednesday,Letter,Individual,13.51,2,True,Call before delivery
+385,Bangalore North,3-5,Tuesday,Package,Individual,9.43,2,False,Call before delivery
+386,Bangalore South,12-2,Wednesday,Document,Business,13.34,1,True,Leave at doorstep
+387,Bangalore Central,12-2,Tuesday,Package,Government,7.44,2,False,Signature required
+388,Bangalore Central,10-12,Monday,Package,Business,8.91,2,True,Leave at doorstep
+389,Bangalore South,10-12,Monday,Document,Business,13.18,1,True,Signature required
+390,Bangalore East,12-2,Saturday,Letter,Business,14.82,1,False,Leave at doorstep
+391,Bangalore Central,12-2,Friday,Letter,Individual,10.23,1,False,Leave at doorstep
+392,Bangalore South,10-12,Tuesday,Document,Individual,12.5,2,False,Leave at doorstep
+393,Bangalore East,3-5,Tuesday,Parcel,Business,13.94,2,False,Signature required
+394,Bangalore East,10-12,Thursday,Document,Government,9.13,1,True,Signature required
+395,Bangalore South,3-5,Friday,Package,Business,8.64,2,True,Call before delivery
+396,Bangalore North,3-5,Monday,Document,Government,9.53,2,True,Signature required
+397,Bangalore East,12-2,Saturday,Parcel,Individual,8.91,2,True,Leave at doorstep
+398,Bangalore South,3-5,Friday,Package,Individual,12.34,2,True,Call before delivery
+399,Bangalore Central,12-2,Tuesday,Parcel,Business,10.09,2,True,No special instructions
+400,Bangalore South,12-2,Wednesday,Package,Business,7.32,1,True,Signature required
+401,Bangalore South,12-2,Monday,Document,Business,8.6,1,True,No special instructions
+402,Bangalore Central,3-5,Thursday,Package,Individual,3.17,2,False,Call before delivery
+403,Bangalore South,12-2,Thursday,Package,Government,1.89,1,False,Signature required
+404,Bangalore North,12-2,Saturday,Parcel,Government,2.94,1,True,Signature required
+405,Bangalore North,10-12,Friday,Letter,Government,6.5,2,False,Leave at doorstep
+406,Bangalore North,12-2,Saturday,Document,Individual,5.13,1,True,Signature required
+407,Bangalore East,3-5,Tuesday,Package,Government,14.32,2,False,Leave at doorstep
+408,Bangalore South,12-2,Friday,Document,Business,8.67,2,False,Call before delivery
+409,Bangalore South,10-12,Saturday,Letter,Business,4.41,2,True,Signature required
+410,Bangalore East,3-5,Wednesday,Document,Individual,2.98,1,False,Signature required
+411,Bangalore Central,3-5,Monday,Letter,Individual,4.08,1,True,Call before delivery
+412,Bangalore Central,12-2,Tuesday,Document,Business,11.8,2,False,Signature required
+413,Bangalore North,10-12,Saturday,Parcel,Government,3.27,2,False,Leave at doorstep
+414,Bangalore Central,3-5,Monday,Document,Government,6.99,2,True,Signature required
+415,Bangalore Central,10-12,Friday,Letter,Individual,12.89,1,True,Leave at doorstep
+416,Bangalore South,3-5,Monday,Letter,Individual,1.0,2,False,No special instructions
+417,Bangalore North,3-5,Monday,Parcel,Business,8.67,1,True,No special instructions
+418,Bangalore East,12-2,Thursday,Package,Business,7.22,2,False,Signature required
+419,Bangalore East,3-5,Wednesday,Package,Government,4.49,1,False,Signature required
+420,Bangalore South,3-5,Wednesday,Package,Government,10.15,1,False,Signature required
+421,Bangalore South,3-5,Saturday,Letter,Business,12.33,2,False,Leave at doorstep
+422,Bangalore Central,12-2,Thursday,Document,Business,5.22,1,False,Call before delivery
+423,Bangalore Central,10-12,Tuesday,Parcel,Government,14.49,2,False,No special instructions
+424,Bangalore North,3-5,Thursday,Document,Business,10.64,1,False,Signature required
+425,Bangalore East,3-5,Saturday,Document,Business,8.6,2,False,No special instructions
+426,Bangalore East,3-5,Thursday,Letter,Individual,4.23,2,True,Call before delivery
+427,Bangalore North,3-5,Wednesday,Parcel,Business,10.72,2,False,No special instructions
+428,Bangalore North,3-5,Thursday,Letter,Business,8.82,1,False,No special instructions
+429,Bangalore East,12-2,Friday,Package,Government,9.85,1,True,Signature required
+430,Bangalore South,3-5,Wednesday,Parcel,Individual,3.8,2,True,Call before delivery
+431,Bangalore Central,10-12,Tuesday,Document,Government,4.75,2,False,Call before delivery
+432,Bangalore Central,3-5,Monday,Document,Individual,5.81,1,False,Signature required
+433,Bangalore Central,3-5,Thursday,Package,Government,7.46,1,True,Signature required
+434,Bangalore Central,10-12,Tuesday,Parcel,Government,5.14,2,False,Signature required
+435,Bangalore Central,10-12,Monday,Package,Government,11.82,1,True,Signature required
+436,Bangalore South,10-12,Tuesday,Package,Government,11.54,1,True,Signature required
+437,Bangalore North,3-5,Saturday,Package,Government,3.88,1,True,No special instructions
+438,Bangalore Central,3-5,Saturday,Package,Government,2.39,1,False,Call before delivery
+439,Bangalore East,10-12,Monday,Package,Business,9.3,1,False,Signature required
+440,Bangalore Central,12-2,Thursday,Parcel,Business,9.88,2,True,Leave at doorstep
+441,Bangalore Central,10-12,Friday,Parcel,Individual,11.09,1,True,Call before delivery
+442,Bangalore North,10-12,Wednesday,Document,Business,14.79,2,False,Signature required
+443,Bangalore Central,12-2,Friday,Package,Government,1.76,1,True,Signature required
+444,Bangalore North,10-12,Thursday,Document,Government,11.16,2,True,Signature required
+445,Bangalore South,10-12,Friday,Package,Individual,1.3,2,True,No special instructions
+446,Bangalore Central,12-2,Monday,Document,Individual,4.19,1,False,Leave at doorstep
+447,Bangalore South,10-12,Tuesday,Document,Individual,7.78,1,False,Leave at doorstep
+448,Bangalore East,12-2,Tuesday,Parcel,Business,7.29,2,False,No special instructions
+449,Bangalore Central,10-12,Thursday,Document,Business,2.33,1,False,Leave at doorstep
+450,Bangalore South,12-2,Monday,Letter,Government,3.1,2,False,No special instructions
+451,Bangalore Central,12-2,Tuesday,Document,Government,7.23,2,True,Call before delivery
+452,Bangalore North,12-2,Saturday,Parcel,Government,12.14,2,True,No special instructions
+453,Bangalore North,10-12,Monday,Package,Government,2.28,2,True,Leave at doorstep
+454,Bangalore South,10-12,Wednesday,Parcel,Business,8.95,1,True,Signature required
+455,Bangalore North,10-12,Monday,Package,Business,2.06,2,False,No special instructions
+456,Bangalore Central,3-5,Thursday,Parcel,Government,7.2,1,False,Signature required
+457,Bangalore South,10-12,Saturday,Package,Government,10.98,2,False,No special instructions
+458,Bangalore Central,10-12,Wednesday,Package,Individual,1.72,1,False,Signature required
+459,Bangalore East,3-5,Tuesday,Package,Individual,4.5,1,False,Leave at doorstep
+460,Bangalore North,10-12,Thursday,Parcel,Individual,10.42,2,True,Call before delivery
+461,Bangalore South,12-2,Thursday,Parcel,Business,8.43,1,True,No special instructions
+462,Bangalore North,3-5,Friday,Document,Business,6.33,2,True,Signature required
+463,Bangalore East,3-5,Wednesday,Document,Business,9.14,2,False,Call before delivery
+464,Bangalore South,12-2,Friday,Package,Business,14.5,1,False,No special instructions
+465,Bangalore Central,12-2,Wednesday,Parcel,Government,3.64,1,True,Call before delivery
+466,Bangalore Central,3-5,Tuesday,Letter,Business,5.21,1,False,Signature required
+467,Bangalore South,12-2,Saturday,Package,Individual,4.78,1,True,Leave at doorstep
+468,Bangalore North,10-12,Tuesday,Parcel,Individual,11.99,2,False,No special instructions
+469,Bangalore East,12-2,Monday,Document,Government,11.82,2,False,Signature required
+470,Bangalore North,12-2,Friday,Document,Business,2.22,2,True,No special instructions
+471,Bangalore South,3-5,Thursday,Document,Individual,3.65,1,False,No special instructions
+472,Bangalore Central,3-5,Saturday,Document,Business,4.93,1,False,Leave at doorstep
+473,Bangalore East,12-2,Thursday,Letter,Government,1.28,2,False,Leave at doorstep
+474,Bangalore East,3-5,Thursday,Document,Individual,14.2,2,True,Signature required
+475,Bangalore North,12-2,Thursday,Document,Business,2.74,2,False,Signature required
+476,Bangalore Central,10-12,Saturday,Document,Government,14.92,2,False,Leave at doorstep
+477,Bangalore East,3-5,Wednesday,Document,Individual,11.7,1,False,Call before delivery
+478,Bangalore Central,3-5,Monday,Parcel,Individual,3.67,2,True,No special instructions
+479,Bangalore East,10-12,Tuesday,Parcel,Business,4.02,2,True,Signature required
+480,Bangalore North,12-2,Friday,Document,Individual,10.59,1,True,Call before delivery
+481,Bangalore North,3-5,Saturday,Package,Individual,5.97,2,False,Call before delivery
+482,Bangalore South,10-12,Monday,Parcel,Individual,5.0,1,True,No special instructions
+483,Bangalore North,3-5,Friday,Package,Individual,9.4,1,False,Signature required
+484,Bangalore South,10-12,Saturday,Parcel,Individual,7.91,2,False,Leave at doorstep
+485,Bangalore South,12-2,Monday,Package,Business,2.67,2,False,Leave at doorstep
+486,Bangalore Central,12-2,Friday,Document,Business,1.48,2,True,No special instructions
+487,Bangalore North,10-12,Wednesday,Parcel,Individual,11.57,1,False,Signature required
+488,Bangalore South,3-5,Monday,Package,Government,7.84,1,False,Leave at doorstep
+489,Bangalore South,10-12,Wednesday,Parcel,Government,5.72,2,False,Leave at doorstep
+490,Bangalore Central,10-12,Monday,Document,Business,11.0,2,False,Signature required
+491,Bangalore East,12-2,Monday,Parcel,Government,6.63,2,False,Call before delivery
+492,Bangalore North,3-5,Saturday,Document,Individual,5.77,2,False,Leave at doorstep
+493,Bangalore East,12-2,Thursday,Package,Business,5.3,2,True,No special instructions
+494,Bangalore East,10-12,Friday,Package,Business,1.67,2,False,Signature required
+495,Bangalore East,10-12,Tuesday,Parcel,Individual,5.13,2,False,No special instructions
+496,Bangalore Central,3-5,Wednesday,Parcel,Government,5.12,2,False,Call before delivery
+497,Bangalore Central,10-12,Wednesday,Package,Government,9.11,1,False,No special instructions
+498,Bangalore Central,10-12,Wednesday,Letter,Individual,5.71,2,False,Leave at doorstep
+499,Bangalore South,10-12,Monday,Package,Government,7.31,2,True,Call before delivery
+500,Bangalore North,3-5,Tuesday,Parcel,Government,2.85,1,False,Signature required
+501,Bangalore East,10-12,Thursday,Package,Individual,10.85,1,False,No special instructions
+502,Bangalore East,10-12,Friday,Parcel,Individual,1.24,1,False,No special instructions
+503,Bangalore North,10-12,Thursday,Package,Individual,14.66,2,True,Leave at doorstep
+504,Bangalore South,12-2,Friday,Letter,Business,13.56,2,False,Signature required
+505,Bangalore North,12-2,Monday,Letter,Individual,9.59,2,False,Leave at doorstep
+506,Bangalore South,12-2,Monday,Letter,Business,5.74,2,False,Signature required
+507,Bangalore East,10-12,Thursday,Letter,Business,2.71,1,True,Leave at doorstep
+508,Bangalore South,3-5,Tuesday,Letter,Individual,8.15,2,True,Call before delivery
+509,Bangalore Central,3-5,Saturday,Package,Business,1.72,2,True,Signature required
+510,Bangalore East,12-2,Saturday,Parcel,Individual,10.96,2,False,No special instructions
+511,Bangalore South,3-5,Saturday,Document,Individual,10.8,1,False,Signature required
+512,Bangalore Central,3-5,Friday,Letter,Government,12.24,2,True,Call before delivery
+513,Bangalore North,3-5,Saturday,Parcel,Individual,14.11,2,False,No special instructions
+514,Bangalore East,10-12,Wednesday,Parcel,Business,4.85,1,True,Call before delivery
+515,Bangalore South,3-5,Monday,Letter,Business,3.26,1,True,No special instructions
+516,Bangalore East,10-12,Thursday,Document,Government,10.17,2,False,Leave at doorstep
+517,Bangalore Central,3-5,Monday,Document,Government,9.89,2,True,Signature required
+518,Bangalore South,3-5,Friday,Package,Individual,10.8,1,True,No special instructions
+519,Bangalore North,10-12,Thursday,Package,Government,1.39,1,False,Signature required
+520,Bangalore East,12-2,Monday,Document,Business,3.28,1,False,Leave at doorstep
+521,Bangalore South,3-5,Saturday,Document,Business,13.85,2,True,Leave at doorstep
+522,Bangalore Central,10-12,Friday,Package,Business,12.35,1,False,Leave at doorstep
+523,Bangalore Central,3-5,Thursday,Document,Business,3.93,2,True,No special instructions
+524,Bangalore Central,3-5,Friday,Letter,Government,3.7,1,False,No special instructions
+525,Bangalore East,3-5,Tuesday,Package,Government,3.53,1,True,Signature required
+526,Bangalore South,10-12,Thursday,Letter,Government,13.34,2,False,Leave at doorstep
+527,Bangalore East,3-5,Saturday,Letter,Business,7.13,2,False,Signature required
+528,Bangalore North,12-2,Thursday,Document,Business,5.4,2,False,Signature required
+529,Bangalore Central,12-2,Monday,Letter,Business,1.67,1,True,Leave at doorstep
+530,Bangalore Central,12-2,Saturday,Document,Business,5.6,1,False,Leave at doorstep
+531,Bangalore East,12-2,Tuesday,Parcel,Individual,8.26,2,False,No special instructions
+532,Bangalore North,10-12,Wednesday,Package,Business,2.67,2,False,Call before delivery
+533,Bangalore East,10-12,Thursday,Letter,Business,11.56,2,True,No special instructions
+534,Bangalore Central,12-2,Friday,Letter,Government,9.02,2,False,Call before delivery
+535,Bangalore South,10-12,Tuesday,Letter,Business,8.59,1,False,Leave at doorstep
+536,Bangalore Central,12-2,Friday,Parcel,Government,12.22,2,False,No special instructions
+537,Bangalore Central,12-2,Wednesday,Parcel,Individual,8.1,2,False,Signature required
+538,Bangalore Central,3-5,Tuesday,Package,Individual,10.59,1,True,No special instructions
+539,Bangalore East,3-5,Tuesday,Document,Government,11.16,2,False,Signature required
+540,Bangalore Central,3-5,Wednesday,Document,Individual,14.89,1,False,No special instructions
+541,Bangalore Central,3-5,Saturday,Parcel,Business,7.35,2,False,Leave at doorstep
+542,Bangalore Central,3-5,Thursday,Document,Business,10.82,2,False,Call before delivery
+543,Bangalore North,12-2,Monday,Package,Individual,9.73,2,False,Leave at doorstep
+544,Bangalore North,10-12,Friday,Parcel,Business,14.0,1,False,No special instructions
+545,Bangalore North,3-5,Friday,Package,Individual,14.55,1,True,No special instructions
+546,Bangalore Central,3-5,Wednesday,Document,Government,14.47,2,True,Leave at doorstep
+547,Bangalore South,10-12,Monday,Package,Government,3.92,2,True,Call before delivery
+548,Bangalore Central,3-5,Tuesday,Document,Business,14.03,1,True,Call before delivery
+549,Bangalore South,12-2,Thursday,Package,Individual,5.23,1,True,Leave at doorstep
+550,Bangalore North,12-2,Saturday,Parcel,Government,5.61,1,False,Leave at doorstep
+551,Bangalore East,10-12,Monday,Document,Government,1.09,2,False,No special instructions
+552,Bangalore North,3-5,Friday,Parcel,Business,11.36,2,True,Leave at doorstep
+553,Bangalore South,12-2,Thursday,Document,Government,3.23,1,False,Signature required
+554,Bangalore South,3-5,Saturday,Document,Individual,6.71,1,False,Leave at doorstep
+555,Bangalore Central,12-2,Monday,Parcel,Government,14.34,1,True,Leave at doorstep
+556,Bangalore East,3-5,Wednesday,Document,Business,4.76,2,False,No special instructions
+557,Bangalore North,3-5,Monday,Letter,Government,3.86,2,True,Signature required
+558,Bangalore North,12-2,Friday,Package,Individual,6.19,2,False,Leave at doorstep
+559,Bangalore Central,10-12,Friday,Letter,Individual,2.95,2,True,Call before delivery
+560,Bangalore East,3-5,Friday,Parcel,Business,2.94,1,False,No special instructions
+561,Bangalore North,3-5,Monday,Document,Business,14.55,2,False,Leave at doorstep
+562,Bangalore South,10-12,Tuesday,Package,Government,2.93,2,True,No special instructions
+563,Bangalore East,3-5,Thursday,Parcel,Individual,11.35,1,False,No special instructions
+564,Bangalore Central,3-5,Friday,Parcel,Individual,10.7,2,False,Leave at doorstep
+565,Bangalore South,3-5,Wednesday,Document,Business,3.9,2,True,Leave at doorstep
+566,Bangalore South,3-5,Thursday,Package,Business,7.37,2,True,Call before delivery
+567,Bangalore North,12-2,Monday,Parcel,Individual,13.28,1,True,Call before delivery
+568,Bangalore South,10-12,Wednesday,Document,Business,3.39,1,False,Signature required
+569,Bangalore East,12-2,Monday,Letter,Government,13.99,1,True,No special instructions
+570,Bangalore South,3-5,Thursday,Parcel,Government,10.06,1,False,Call before delivery
+571,Bangalore East,10-12,Tuesday,Document,Business,11.62,2,False,Signature required
+572,Bangalore South,3-5,Friday,Parcel,Business,1.15,2,False,Leave at doorstep
+573,Bangalore North,12-2,Thursday,Letter,Business,3.69,1,True,Call before delivery
+574,Bangalore South,3-5,Wednesday,Parcel,Individual,5.91,2,False,Leave at doorstep
+575,Bangalore East,12-2,Thursday,Letter,Government,1.38,2,True,Call before delivery
+576,Bangalore East,12-2,Saturday,Package,Government,12.49,1,True,No special instructions
+577,Bangalore East,10-12,Tuesday,Parcel,Business,14.32,2,False,No special instructions
+578,Bangalore East,12-2,Wednesday,Package,Government,4.02,1,False,No special instructions
+579,Bangalore East,3-5,Friday,Document,Business,11.1,2,False,Signature required
+580,Bangalore South,10-12,Tuesday,Letter,Individual,8.8,2,True,Signature required
+581,Bangalore Central,10-12,Saturday,Parcel,Business,7.59,2,False,Call before delivery
+582,Bangalore Central,3-5,Tuesday,Parcel,Business,6.09,2,True,Leave at doorstep
+583,Bangalore East,12-2,Wednesday,Package,Business,7.84,1,False,Signature required
+584,Bangalore Central,12-2,Tuesday,Document,Government,7.51,1,True,No special instructions
+585,Bangalore East,12-2,Tuesday,Parcel,Government,4.64,2,False,Signature required
+586,Bangalore East,10-12,Wednesday,Letter,Business,9.55,1,False,Signature required
+587,Bangalore Central,12-2,Monday,Parcel,Business,1.39,2,False,Signature required
+588,Bangalore East,10-12,Tuesday,Document,Individual,1.66,2,True,Call before delivery
+589,Bangalore South,10-12,Wednesday,Parcel,Business,8.52,2,True,Signature required
+590,Bangalore South,10-12,Tuesday,Letter,Government,2.92,1,False,No special instructions
+591,Bangalore East,10-12,Friday,Parcel,Government,4.84,2,False,Call before delivery
+592,Bangalore South,12-2,Tuesday,Letter,Government,10.2,2,False,Call before delivery
+593,Bangalore South,12-2,Saturday,Parcel,Government,12.4,2,True,Signature required
+594,Bangalore Central,3-5,Saturday,Letter,Business,2.3,2,True,Leave at doorstep
+595,Bangalore Central,12-2,Tuesday,Document,Government,14.95,1,True,Call before delivery
+596,Bangalore North,12-2,Wednesday,Document,Government,12.26,2,True,Signature required
+597,Bangalore South,12-2,Saturday,Letter,Government,14.53,1,False,No special instructions
+598,Bangalore East,10-12,Thursday,Letter,Individual,13.92,2,True,No special instructions
+599,Bangalore North,3-5,Friday,Package,Business,1.85,1,True,Signature required
+600,Bangalore North,3-5,Wednesday,Document,Individual,2.5,2,False,Leave at doorstep
+601,Bangalore Central,12-2,Tuesday,Package,Business,13.56,2,True,Call before delivery
+602,Bangalore East,3-5,Monday,Document,Individual,1.97,1,True,Leave at doorstep
+603,Bangalore Central,10-12,Thursday,Document,Individual,14.4,1,False,Signature required
+604,Bangalore North,10-12,Saturday,Document,Business,2.82,1,True,Call before delivery
+605,Bangalore South,10-12,Thursday,Parcel,Government,1.66,2,True,Leave at doorstep
+606,Bangalore South,12-2,Friday,Package,Government,7.16,2,False,Call before delivery
+607,Bangalore North,3-5,Saturday,Letter,Business,10.11,1,False,Signature required
+608,Bangalore Central,10-12,Tuesday,Document,Government,12.9,1,True,No special instructions
+609,Bangalore North,3-5,Saturday,Parcel,Individual,3.33,2,True,Signature required
+610,Bangalore East,3-5,Thursday,Letter,Government,11.54,2,False,Leave at doorstep
+611,Bangalore South,3-5,Friday,Parcel,Individual,9.39,2,True,Signature required
+612,Bangalore South,3-5,Wednesday,Letter,Government,8.2,1,True,Signature required
+613,Bangalore North,12-2,Monday,Parcel,Business,7.47,2,True,Leave at doorstep
+614,Bangalore East,12-2,Saturday,Package,Government,3.35,1,True,Call before delivery
+615,Bangalore Central,12-2,Wednesday,Document,Business,11.58,2,False,No special instructions
+616,Bangalore Central,10-12,Friday,Document,Individual,11.59,2,True,Signature required
+617,Bangalore Central,3-5,Saturday,Document,Individual,10.88,1,True,Leave at doorstep
+618,Bangalore South,3-5,Saturday,Package,Business,3.33,2,False,Call before delivery
+619,Bangalore Central,12-2,Friday,Package,Business,10.11,1,True,Leave at doorstep
+620,Bangalore East,3-5,Tuesday,Package,Government,13.36,1,False,No special instructions
+621,Bangalore East,10-12,Wednesday,Document,Business,12.75,1,False,Leave at doorstep
+622,Bangalore South,10-12,Tuesday,Package,Business,1.51,2,False,Signature required
+623,Bangalore North,12-2,Friday,Package,Individual,12.61,2,True,No special instructions
+624,Bangalore East,12-2,Friday,Package,Business,8.85,1,True,Signature required
+625,Bangalore Central,10-12,Thursday,Parcel,Government,13.11,2,True,Leave at doorstep
+626,Bangalore North,12-2,Thursday,Letter,Government,2.73,2,False,Call before delivery
+627,Bangalore North,12-2,Tuesday,Parcel,Business,11.88,2,False,Call before delivery
+628,Bangalore East,10-12,Tuesday,Parcel,Government,10.47,2,False,Signature required
+629,Bangalore North,10-12,Tuesday,Package,Individual,13.0,2,False,Leave at doorstep
+630,Bangalore North,12-2,Monday,Package,Individual,2.38,1,True,Call before delivery
+631,Bangalore Central,3-5,Friday,Package,Business,5.46,1,False,Leave at doorstep
+632,Bangalore Central,12-2,Friday,Parcel,Business,14.94,1,False,Call before delivery
+633,Bangalore East,3-5,Wednesday,Document,Government,8.2,1,True,Signature required
+634,Bangalore North,12-2,Thursday,Document,Business,2.95,1,False,Leave at doorstep
+635,Bangalore South,10-12,Tuesday,Parcel,Individual,4.59,1,True,Leave at doorstep
+636,Bangalore Central,12-2,Tuesday,Parcel,Individual,8.77,1,True,No special instructions
+637,Bangalore East,3-5,Wednesday,Letter,Individual,1.35,1,False,Leave at doorstep
+638,Bangalore Central,12-2,Thursday,Letter,Individual,2.47,1,False,Leave at doorstep
+639,Bangalore South,3-5,Tuesday,Letter,Individual,4.74,1,True,Signature required
+640,Bangalore Central,10-12,Tuesday,Document,Government,14.22,2,False,Leave at doorstep
+641,Bangalore East,10-12,Monday,Package,Business,9.01,1,True,Call before delivery
+642,Bangalore South,3-5,Thursday,Package,Individual,8.84,2,True,Call before delivery
+643,Bangalore North,3-5,Monday,Letter,Individual,11.67,2,True,No special instructions
+644,Bangalore Central,10-12,Monday,Letter,Business,8.93,1,True,Leave at doorstep
+645,Bangalore Central,10-12,Monday,Parcel,Individual,8.99,2,False,Leave at doorstep
+646,Bangalore Central,3-5,Saturday,Parcel,Government,10.27,2,True,Leave at doorstep
+647,Bangalore South,12-2,Wednesday,Document,Government,4.97,1,False,Leave at doorstep
+648,Bangalore Central,10-12,Friday,Package,Business,12.74,1,True,Signature required
+649,Bangalore South,12-2,Saturday,Parcel,Government,5.76,1,False,Call before delivery
+650,Bangalore North,10-12,Thursday,Letter,Government,7.44,2,True,Signature required
+651,Bangalore South,12-2,Monday,Parcel,Government,12.63,1,True,Signature required
+652,Bangalore Central,10-12,Wednesday,Document,Individual,11.52,2,False,Call before delivery
+653,Bangalore Central,3-5,Monday,Letter,Government,12.96,2,False,Signature required
+654,Bangalore East,12-2,Saturday,Document,Individual,14.2,1,True,No special instructions
+655,Bangalore East,10-12,Tuesday,Package,Government,12.19,2,True,Signature required
+656,Bangalore East,3-5,Friday,Parcel,Individual,7.0,1,True,Call before delivery
+657,Bangalore North,10-12,Wednesday,Document,Government,5.68,2,True,Signature required
+658,Bangalore North,10-12,Saturday,Package,Individual,2.89,2,False,No special instructions
+659,Bangalore East,3-5,Wednesday,Parcel,Business,1.6,1,False,Leave at doorstep
+660,Bangalore Central,10-12,Friday,Parcel,Business,7.37,1,True,Signature required
+661,Bangalore Central,3-5,Saturday,Parcel,Government,10.34,1,True,Call before delivery
+662,Bangalore Central,10-12,Wednesday,Parcel,Business,5.16,1,False,Signature required
+663,Bangalore Central,10-12,Wednesday,Letter,Individual,5.41,1,True,Signature required
+664,Bangalore North,10-12,Monday,Document,Individual,14.72,1,False,Signature required
+665,Bangalore North,12-2,Monday,Document,Individual,12.23,1,True,Leave at doorstep
+666,Bangalore North,3-5,Monday,Package,Individual,1.79,2,True,No special instructions
+667,Bangalore Central,3-5,Thursday,Letter,Government,2.78,1,True,Leave at doorstep
+668,Bangalore South,3-5,Thursday,Document,Government,5.64,1,False,Signature required
+669,Bangalore East,10-12,Monday,Parcel,Business,2.26,1,True,Call before delivery
+670,Bangalore East,3-5,Monday,Document,Business,1.28,2,True,No special instructions
+671,Bangalore Central,10-12,Monday,Parcel,Government,8.53,2,False,Signature required
+672,Bangalore East,10-12,Friday,Letter,Individual,3.35,2,True,No special instructions
+673,Bangalore Central,12-2,Thursday,Package,Government,4.29,1,False,Leave at doorstep
+674,Bangalore North,10-12,Saturday,Document,Business,14.98,2,False,Leave at doorstep
+675,Bangalore East,10-12,Wednesday,Document,Individual,9.63,2,False,No special instructions
+676,Bangalore North,12-2,Wednesday,Document,Individual,13.63,2,False,Signature required
+677,Bangalore East,3-5,Thursday,Document,Individual,3.06,1,True,Leave at doorstep
+678,Bangalore North,3-5,Friday,Letter,Business,3.0,1,True,No special instructions
+679,Bangalore South,3-5,Thursday,Package,Individual,2.53,1,True,Call before delivery
+680,Bangalore South,10-12,Tuesday,Package,Individual,11.15,2,False,Leave at doorstep
+681,Bangalore South,10-12,Tuesday,Parcel,Individual,9.87,1,False,Leave at doorstep
+682,Bangalore North,12-2,Friday,Letter,Government,5.67,2,False,Leave at doorstep
+683,Bangalore North,3-5,Wednesday,Package,Individual,13.36,2,False,Signature required
+684,Bangalore North,10-12,Monday,Package,Government,10.67,2,True,Call before delivery
+685,Bangalore Central,3-5,Saturday,Parcel,Government,5.7,1,True,Signature required
+686,Bangalore North,12-2,Saturday,Parcel,Individual,4.54,1,False,Call before delivery
+687,Bangalore Central,3-5,Saturday,Parcel,Business,6.98,1,True,Call before delivery
+688,Bangalore South,10-12,Saturday,Letter,Business,1.64,1,False,Leave at doorstep
+689,Bangalore Central,3-5,Wednesday,Document,Individual,8.59,2,True,Leave at doorstep
+690,Bangalore Central,3-5,Monday,Letter,Business,9.59,2,True,Signature required
+691,Bangalore North,10-12,Friday,Parcel,Individual,10.09,2,False,Leave at doorstep
+692,Bangalore East,10-12,Tuesday,Parcel,Government,13.31,1,True,Signature required
+693,Bangalore Central,3-5,Wednesday,Letter,Government,12.32,2,True,Leave at doorstep
+694,Bangalore South,10-12,Friday,Package,Individual,13.44,1,False,Signature required
+695,Bangalore North,10-12,Wednesday,Parcel,Government,6.48,2,True,Call before delivery
+696,Bangalore South,12-2,Friday,Letter,Business,9.4,1,True,Signature required
+697,Bangalore East,12-2,Thursday,Document,Individual,2.19,1,True,Signature required
+698,Bangalore South,12-2,Friday,Package,Individual,5.56,2,False,Call before delivery
+699,Bangalore North,10-12,Thursday,Package,Government,9.61,2,True,Signature required
+700,Bangalore South,3-5,Wednesday,Letter,Business,10.82,2,False,No special instructions
+701,Bangalore South,3-5,Monday,Parcel,Business,9.9,1,False,No special instructions
+702,Bangalore Central,3-5,Thursday,Package,Individual,6.66,1,True,Signature required
+703,Bangalore South,3-5,Tuesday,Parcel,Government,2.71,2,True,Signature required
+704,Bangalore East,12-2,Wednesday,Parcel,Individual,12.1,2,False,No special instructions
+705,Bangalore East,3-5,Saturday,Package,Individual,9.59,1,True,Call before delivery
+706,Bangalore Central,3-5,Saturday,Parcel,Government,5.79,2,True,Leave at doorstep
+707,Bangalore Central,12-2,Monday,Letter,Government,3.47,1,True,No special instructions
+708,Bangalore Central,3-5,Saturday,Letter,Business,11.72,2,True,No special instructions
+709,Bangalore Central,12-2,Saturday,Package,Government,3.61,2,False,Signature required
+710,Bangalore Central,3-5,Tuesday,Parcel,Individual,2.85,1,True,Signature required
+711,Bangalore East,10-12,Thursday,Parcel,Government,6.66,1,False,Call before delivery
+712,Bangalore North,12-2,Friday,Parcel,Government,8.74,1,True,No special instructions
+713,Bangalore South,3-5,Monday,Letter,Government,3.94,2,False,Leave at doorstep
+714,Bangalore East,3-5,Tuesday,Letter,Individual,8.48,2,False,Leave at doorstep
+715,Bangalore North,10-12,Saturday,Parcel,Individual,7.7,1,False,Call before delivery
+716,Bangalore North,12-2,Monday,Document,Individual,5.7,1,False,No special instructions
+717,Bangalore East,12-2,Thursday,Letter,Individual,1.14,1,False,Signature required
+718,Bangalore North,3-5,Saturday,Parcel,Government,5.3,1,False,Call before delivery
+719,Bangalore East,3-5,Friday,Package,Business,2.15,2,True,Call before delivery
+720,Bangalore Central,10-12,Friday,Letter,Business,3.94,2,True,Signature required
+721,Bangalore Central,12-2,Monday,Letter,Individual,12.34,2,False,Signature required
+722,Bangalore East,10-12,Tuesday,Letter,Individual,7.5,1,False,No special instructions
+723,Bangalore Central,10-12,Friday,Letter,Government,4.18,2,False,Leave at doorstep
+724,Bangalore East,12-2,Monday,Parcel,Individual,8.32,2,False,No special instructions
+725,Bangalore North,3-5,Thursday,Document,Government,14.5,2,True,No special instructions
+726,Bangalore South,12-2,Monday,Package,Individual,4.45,2,False,Leave at doorstep
+727,Bangalore East,12-2,Wednesday,Parcel,Government,7.75,1,True,Leave at doorstep
+728,Bangalore Central,10-12,Wednesday,Parcel,Business,2.69,1,False,Signature required
+729,Bangalore South,3-5,Friday,Letter,Individual,8.3,2,False,No special instructions
+730,Bangalore North,3-5,Friday,Parcel,Business,2.67,2,True,Leave at doorstep
+731,Bangalore North,10-12,Thursday,Parcel,Business,8.94,1,True,Leave at doorstep
+732,Bangalore South,3-5,Monday,Parcel,Government,12.44,2,False,Leave at doorstep
+733,Bangalore North,3-5,Tuesday,Package,Business,14.26,2,False,No special instructions
+734,Bangalore East,12-2,Friday,Package,Individual,13.62,1,False,Call before delivery
+735,Bangalore Central,12-2,Saturday,Document,Business,3.43,1,False,Call before delivery
+736,Bangalore North,10-12,Monday,Package,Individual,2.77,1,False,Signature required
+737,Bangalore Central,3-5,Tuesday,Parcel,Government,4.65,1,True,Call before delivery
+738,Bangalore Central,10-12,Thursday,Letter,Individual,1.62,2,True,No special instructions
+739,Bangalore East,3-5,Tuesday,Letter,Government,10.17,2,False,No special instructions
+740,Bangalore North,10-12,Saturday,Package,Business,12.86,1,False,Call before delivery
+741,Bangalore East,3-5,Monday,Package,Government,11.72,1,True,Leave at doorstep
+742,Bangalore South,3-5,Thursday,Letter,Government,4.61,1,True,Call before delivery
+743,Bangalore Central,10-12,Thursday,Document,Business,7.57,2,True,Leave at doorstep
+744,Bangalore East,10-12,Monday,Letter,Individual,12.82,1,True,Signature required
+745,Bangalore North,3-5,Thursday,Letter,Business,5.81,2,True,Signature required
+746,Bangalore North,12-2,Thursday,Package,Government,7.77,1,False,Leave at doorstep
+747,Bangalore South,10-12,Tuesday,Letter,Government,3.6,2,False,Signature required
+748,Bangalore East,10-12,Tuesday,Letter,Government,4.23,1,True,No special instructions
+749,Bangalore South,3-5,Thursday,Document,Individual,6.64,2,True,No special instructions
+750,Bangalore North,12-2,Thursday,Document,Government,4.62,2,True,Signature required
+751,Bangalore Central,10-12,Friday,Parcel,Government,6.33,2,True,No special instructions
+752,Bangalore East,3-5,Wednesday,Package,Business,10.81,2,False,Call before delivery
+753,Bangalore East,10-12,Friday,Parcel,Business,6.2,1,True,Call before delivery
+754,Bangalore East,10-12,Thursday,Package,Business,5.11,1,False,No special instructions
+755,Bangalore South,10-12,Monday,Document,Business,9.23,2,False,No special instructions
+756,Bangalore North,3-5,Thursday,Document,Business,2.41,1,False,Call before delivery
+757,Bangalore South,10-12,Thursday,Letter,Government,11.99,2,False,Call before delivery
+758,Bangalore Central,3-5,Tuesday,Document,Business,2.53,1,False,Leave at doorstep
+759,Bangalore North,12-2,Thursday,Package,Government,5.73,1,False,Signature required
+760,Bangalore Central,12-2,Monday,Document,Government,13.38,1,True,No special instructions
+761,Bangalore North,3-5,Tuesday,Package,Government,8.3,1,False,No special instructions
+762,Bangalore North,10-12,Thursday,Letter,Government,7.71,1,True,Signature required
+763,Bangalore East,3-5,Friday,Document,Business,8.51,1,False,Signature required
+764,Bangalore East,10-12,Wednesday,Letter,Business,14.62,1,False,Signature required
+765,Bangalore East,3-5,Tuesday,Parcel,Business,12.49,1,False,No special instructions
+766,Bangalore Central,12-2,Saturday,Letter,Business,13.76,2,True,Call before delivery
+767,Bangalore East,12-2,Monday,Package,Government,5.63,2,False,Call before delivery
+768,Bangalore North,3-5,Thursday,Letter,Business,13.67,1,True,No special instructions
+769,Bangalore East,10-12,Monday,Parcel,Government,1.21,1,True,Leave at doorstep
+770,Bangalore Central,3-5,Wednesday,Package,Individual,2.9,2,False,Call before delivery
+771,Bangalore Central,3-5,Monday,Package,Government,3.69,1,False,Signature required
+772,Bangalore North,12-2,Saturday,Parcel,Individual,7.05,2,False,Leave at doorstep
+773,Bangalore East,10-12,Wednesday,Package,Business,5.82,1,True,Call before delivery
+774,Bangalore South,3-5,Thursday,Parcel,Business,13.78,1,False,Leave at doorstep
+775,Bangalore North,12-2,Friday,Parcel,Government,3.42,2,False,No special instructions
+776,Bangalore North,12-2,Monday,Document,Government,10.19,1,True,Call before delivery
+777,Bangalore South,3-5,Saturday,Package,Individual,8.85,2,False,Leave at doorstep
+778,Bangalore North,10-12,Thursday,Parcel,Business,2.93,1,False,No special instructions
+779,Bangalore Central,12-2,Wednesday,Parcel,Government,10.59,1,False,Leave at doorstep
+780,Bangalore East,12-2,Monday,Letter,Government,11.0,2,True,Call before delivery
+781,Bangalore Central,10-12,Wednesday,Document,Individual,7.14,2,False,Leave at doorstep
+782,Bangalore East,12-2,Friday,Package,Individual,3.74,1,False,Leave at doorstep
+783,Bangalore North,12-2,Thursday,Package,Business,3.97,2,False,Leave at doorstep
+784,Bangalore South,3-5,Tuesday,Package,Government,12.58,1,False,Leave at doorstep
+785,Bangalore Central,3-5,Tuesday,Document,Government,11.27,1,True,Call before delivery
+786,Bangalore North,3-5,Tuesday,Letter,Government,8.79,2,True,Leave at doorstep
+787,Bangalore Central,10-12,Monday,Document,Individual,13.54,2,True,Signature required
+788,Bangalore North,3-5,Monday,Letter,Government,10.33,1,False,No special instructions
+789,Bangalore East,10-12,Tuesday,Letter,Individual,6.8,2,True,Signature required
+790,Bangalore Central,10-12,Friday,Package,Business,5.85,2,True,Signature required
+791,Bangalore East,3-5,Friday,Package,Government,14.16,2,False,No special instructions
+792,Bangalore East,10-12,Saturday,Parcel,Individual,2.58,2,False,No special instructions
+793,Bangalore South,10-12,Monday,Parcel,Government,4.53,1,False,Signature required
+794,Bangalore Central,10-12,Friday,Parcel,Individual,6.64,2,True,No special instructions
+795,Bangalore South,3-5,Saturday,Letter,Business,5.3,1,True,Leave at doorstep
+796,Bangalore North,10-12,Monday,Parcel,Individual,11.62,2,True,Call before delivery
+797,Bangalore East,3-5,Friday,Document,Government,12.59,2,True,Signature required
+798,Bangalore East,3-5,Saturday,Document,Government,7.18,2,True,No special instructions
+799,Bangalore East,12-2,Tuesday,Parcel,Government,12.02,1,True,Leave at doorstep
+800,Bangalore South,3-5,Monday,Parcel,Business,13.38,2,False,Call before delivery
+801,Bangalore Central,10-12,Monday,Letter,Business,12.53,2,False,No special instructions
+802,Bangalore North,12-2,Friday,Parcel,Individual,6.84,2,False,Call before delivery
+803,Bangalore Central,10-12,Wednesday,Parcel,Government,9.28,1,True,Signature required
+804,Bangalore North,3-5,Friday,Letter,Individual,7.7,1,True,Leave at doorstep
+805,Bangalore North,3-5,Saturday,Letter,Individual,3.46,2,False,Call before delivery
+806,Bangalore East,10-12,Monday,Document,Government,13.99,2,True,No special instructions
+807,Bangalore Central,3-5,Thursday,Package,Individual,2.89,2,True,Leave at doorstep
+808,Bangalore North,3-5,Friday,Letter,Business,1.57,2,True,Signature required
+809,Bangalore Central,10-12,Tuesday,Package,Government,3.33,2,True,No special instructions
+810,Bangalore North,3-5,Friday,Document,Individual,13.22,1,True,Call before delivery
+811,Bangalore Central,12-2,Friday,Document,Business,14.52,1,True,Call before delivery
+812,Bangalore Central,12-2,Thursday,Document,Individual,14.62,2,False,Leave at doorstep
+813,Bangalore East,3-5,Thursday,Document,Individual,1.33,2,False,Leave at doorstep
+814,Bangalore North,3-5,Wednesday,Document,Individual,13.78,2,False,Signature required
+815,Bangalore North,12-2,Wednesday,Letter,Individual,13.23,1,True,No special instructions
+816,Bangalore South,3-5,Tuesday,Parcel,Government,4.99,1,False,No special instructions
+817,Bangalore Central,3-5,Wednesday,Parcel,Business,13.01,1,True,Leave at doorstep
+818,Bangalore Central,10-12,Monday,Letter,Business,14.92,1,True,No special instructions
+819,Bangalore North,12-2,Monday,Parcel,Individual,4.99,1,False,Signature required
+820,Bangalore South,10-12,Monday,Document,Government,2.07,2,False,No special instructions
+821,Bangalore East,12-2,Thursday,Package,Business,5.02,2,False,No special instructions
+822,Bangalore North,3-5,Friday,Document,Individual,11.77,2,False,Leave at doorstep
+823,Bangalore Central,3-5,Wednesday,Parcel,Individual,11.6,1,False,Leave at doorstep
+824,Bangalore Central,12-2,Tuesday,Parcel,Government,14.56,1,False,Call before delivery
+825,Bangalore Central,12-2,Friday,Package,Business,5.05,1,True,Leave at doorstep
+826,Bangalore East,12-2,Tuesday,Letter,Government,11.14,1,False,No special instructions
+827,Bangalore East,10-12,Monday,Package,Government,14.39,2,False,Leave at doorstep
+828,Bangalore East,12-2,Thursday,Parcel,Government,4.48,1,False,No special instructions
+829,Bangalore East,12-2,Friday,Letter,Government,1.08,1,False,Call before delivery
+830,Bangalore South,3-5,Thursday,Parcel,Business,12.81,1,False,Call before delivery
+831,Bangalore North,10-12,Monday,Package,Business,4.78,2,False,No special instructions
+832,Bangalore Central,10-12,Tuesday,Document,Government,14.97,2,True,Call before delivery
+833,Bangalore South,12-2,Thursday,Letter,Government,11.99,1,True,Call before delivery
+834,Bangalore East,12-2,Wednesday,Document,Business,9.17,1,True,No special instructions
+835,Bangalore Central,3-5,Friday,Letter,Government,12.77,2,False,Leave at doorstep
+836,Bangalore Central,10-12,Monday,Letter,Business,11.17,2,True,Leave at doorstep
+837,Bangalore East,3-5,Thursday,Parcel,Business,11.34,1,True,No special instructions
+838,Bangalore Central,3-5,Tuesday,Parcel,Business,11.3,2,True,No special instructions
+839,Bangalore East,3-5,Friday,Letter,Government,2.61,2,True,Call before delivery
+840,Bangalore South,3-5,Wednesday,Letter,Individual,5.69,2,True,Leave at doorstep
+841,Bangalore East,10-12,Saturday,Document,Individual,9.85,1,True,Signature required
+842,Bangalore East,12-2,Thursday,Parcel,Business,2.7,1,False,Signature required
+843,Bangalore Central,12-2,Tuesday,Document,Individual,14.59,2,False,No special instructions
+844,Bangalore South,3-5,Tuesday,Package,Individual,4.83,2,False,No special instructions
+845,Bangalore South,3-5,Saturday,Letter,Individual,12.8,2,True,Call before delivery
+846,Bangalore East,3-5,Monday,Document,Individual,5.06,2,False,No special instructions
+847,Bangalore Central,12-2,Monday,Letter,Business,2.94,1,False,Signature required
+848,Bangalore North,10-12,Saturday,Parcel,Government,1.2,2,True,Leave at doorstep
+849,Bangalore East,10-12,Saturday,Letter,Business,7.01,2,False,Signature required
+850,Bangalore South,3-5,Monday,Letter,Government,13.36,1,False,Call before delivery
+851,Bangalore East,10-12,Monday,Letter,Individual,12.86,2,True,Call before delivery
+852,Bangalore Central,12-2,Monday,Letter,Government,13.23,1,False,No special instructions
+853,Bangalore South,3-5,Wednesday,Letter,Government,1.38,2,True,Signature required
+854,Bangalore South,12-2,Tuesday,Package,Business,7.56,1,False,Leave at doorstep
+855,Bangalore Central,10-12,Tuesday,Package,Business,3.11,2,True,No special instructions
+856,Bangalore South,10-12,Friday,Package,Individual,6.35,1,False,Signature required
+857,Bangalore East,3-5,Tuesday,Document,Individual,8.32,1,False,No special instructions
+858,Bangalore North,12-2,Wednesday,Document,Business,7.43,1,True,Signature required
+859,Bangalore Central,3-5,Monday,Document,Business,5.19,2,True,No special instructions
+860,Bangalore Central,10-12,Friday,Letter,Business,1.26,1,False,Signature required
+861,Bangalore Central,10-12,Tuesday,Package,Individual,1.03,2,False,No special instructions
+862,Bangalore North,10-12,Saturday,Package,Individual,9.36,1,True,Signature required
+863,Bangalore South,3-5,Tuesday,Document,Government,8.02,1,True,Call before delivery
+864,Bangalore Central,3-5,Saturday,Parcel,Government,10.26,1,False,Signature required
+865,Bangalore East,12-2,Monday,Letter,Government,6.92,2,True,No special instructions
+866,Bangalore Central,10-12,Friday,Parcel,Business,12.32,1,True,Signature required
+867,Bangalore Central,3-5,Friday,Document,Individual,14.36,2,False,Leave at doorstep
+868,Bangalore Central,3-5,Friday,Letter,Individual,5.42,2,False,Leave at doorstep
+869,Bangalore Central,3-5,Tuesday,Document,Individual,1.44,2,True,No special instructions
+870,Bangalore East,3-5,Monday,Parcel,Business,12.52,2,True,Signature required
+871,Bangalore North,3-5,Wednesday,Parcel,Individual,1.5,2,True,Signature required
+872,Bangalore North,10-12,Friday,Package,Business,12.84,2,False,No special instructions
+873,Bangalore East,10-12,Thursday,Document,Business,2.65,1,False,Signature required
+874,Bangalore East,3-5,Friday,Document,Individual,1.07,1,True,Signature required
+875,Bangalore East,12-2,Tuesday,Parcel,Business,14.26,1,False,Signature required
+876,Bangalore East,10-12,Monday,Document,Government,4.24,1,True,No special instructions
+877,Bangalore East,3-5,Tuesday,Parcel,Business,14.03,1,True,Call before delivery
+878,Bangalore North,10-12,Friday,Package,Government,6.29,2,True,Call before delivery
+879,Bangalore Central,12-2,Tuesday,Package,Government,8.4,2,True,No special instructions
+880,Bangalore North,12-2,Tuesday,Letter,Individual,11.77,1,False,Leave at doorstep
+881,Bangalore South,12-2,Thursday,Document,Business,4.42,2,True,No special instructions
+882,Bangalore North,10-12,Thursday,Letter,Business,14.24,2,False,No special instructions
+883,Bangalore Central,12-2,Thursday,Letter,Individual,4.02,2,False,Signature required
+884,Bangalore North,10-12,Tuesday,Parcel,Business,5.13,2,True,Signature required
+885,Bangalore East,12-2,Thursday,Document,Government,10.76,2,True,Signature required
+886,Bangalore East,12-2,Thursday,Letter,Government,13.12,1,False,Signature required
+887,Bangalore South,10-12,Thursday,Letter,Individual,2.75,2,True,Signature required
+888,Bangalore North,10-12,Wednesday,Parcel,Government,4.54,2,True,Leave at doorstep
+889,Bangalore South,3-5,Thursday,Package,Business,8.91,2,True,Signature required
+890,Bangalore South,12-2,Friday,Letter,Government,13.38,1,False,No special instructions
+891,Bangalore East,3-5,Saturday,Document,Government,14.58,2,False,Signature required
+892,Bangalore East,3-5,Thursday,Parcel,Business,12.73,2,True,Call before delivery
+893,Bangalore East,10-12,Saturday,Package,Individual,13.38,2,True,No special instructions
+894,Bangalore South,12-2,Monday,Letter,Business,11.84,1,False,Leave at doorstep
+895,Bangalore Central,3-5,Wednesday,Parcel,Business,6.64,2,True,Leave at doorstep
+896,Bangalore South,10-12,Monday,Document,Individual,14.86,1,True,Signature required
+897,Bangalore North,10-12,Monday,Document,Business,14.43,2,False,Call before delivery
+898,Bangalore North,10-12,Thursday,Parcel,Business,2.25,1,True,Call before delivery
+899,Bangalore Central,12-2,Friday,Letter,Government,3.59,1,True,Signature required
+900,Bangalore North,12-2,Monday,Parcel,Individual,6.05,2,True,Call before delivery
+901,Bangalore South,3-5,Wednesday,Letter,Individual,8.55,1,True,Leave at doorstep
+902,Bangalore East,3-5,Wednesday,Letter,Individual,11.49,1,True,Signature required
+903,Bangalore North,10-12,Thursday,Letter,Individual,1.06,1,True,Call before delivery
+904,Bangalore South,12-2,Saturday,Document,Business,4.58,2,True,Call before delivery
+905,Bangalore South,10-12,Wednesday,Package,Business,13.33,2,False,Leave at doorstep
+906,Bangalore South,3-5,Saturday,Letter,Individual,3.24,1,True,No special instructions
+907,Bangalore Central,10-12,Wednesday,Package,Business,11.52,2,True,Signature required
+908,Bangalore East,3-5,Saturday,Document,Individual,5.13,1,True,No special instructions
+909,Bangalore South,3-5,Monday,Package,Individual,13.13,1,False,Call before delivery
+910,Bangalore Central,3-5,Thursday,Package,Business,14.65,2,False,Call before delivery
+911,Bangalore East,12-2,Monday,Letter,Business,11.6,1,False,Call before delivery
+912,Bangalore Central,3-5,Tuesday,Package,Government,14.87,2,False,No special instructions
+913,Bangalore Central,12-2,Monday,Parcel,Individual,14.0,1,False,Leave at doorstep
+914,Bangalore South,3-5,Wednesday,Parcel,Individual,14.45,1,True,Signature required
+915,Bangalore North,10-12,Wednesday,Package,Business,7.99,1,False,Leave at doorstep
+916,Bangalore South,10-12,Wednesday,Document,Government,3.71,1,True,Signature required
+917,Bangalore North,3-5,Tuesday,Letter,Government,11.69,2,True,No special instructions
+918,Bangalore North,10-12,Wednesday,Document,Government,14.95,1,False,No special instructions
+919,Bangalore Central,10-12,Tuesday,Parcel,Government,9.23,2,False,Leave at doorstep
+920,Bangalore North,10-12,Wednesday,Letter,Individual,3.62,2,True,No special instructions
+921,Bangalore East,3-5,Friday,Letter,Individual,9.44,1,True,No special instructions
+922,Bangalore Central,12-2,Monday,Letter,Government,14.27,1,True,Call before delivery
+923,Bangalore South,10-12,Tuesday,Document,Business,14.77,2,True,Signature required
+924,Bangalore East,12-2,Thursday,Parcel,Business,11.26,2,True,Call before delivery
+925,Bangalore South,3-5,Friday,Document,Individual,10.58,2,True,No special instructions
+926,Bangalore South,12-2,Monday,Document,Government,11.92,2,True,No special instructions
+927,Bangalore South,10-12,Thursday,Document,Individual,1.9,1,True,Call before delivery
+928,Bangalore Central,3-5,Wednesday,Document,Individual,14.89,1,True,Leave at doorstep
+929,Bangalore Central,10-12,Friday,Package,Business,12.78,1,True,Call before delivery
+930,Bangalore South,12-2,Wednesday,Letter,Business,10.76,1,False,No special instructions
+931,Bangalore East,3-5,Friday,Parcel,Business,11.92,1,True,No special instructions
+932,Bangalore East,3-5,Wednesday,Letter,Individual,8.65,2,False,Leave at doorstep
+933,Bangalore Central,10-12,Wednesday,Package,Government,1.61,2,False,No special instructions
+934,Bangalore Central,3-5,Thursday,Package,Government,7.13,2,True,Leave at doorstep
+935,Bangalore North,12-2,Monday,Document,Government,10.7,1,False,Signature required
+936,Bangalore Central,12-2,Wednesday,Parcel,Individual,1.74,1,True,No special instructions
+937,Bangalore East,12-2,Wednesday,Document,Individual,9.92,1,False,Signature required
+938,Bangalore Central,10-12,Monday,Parcel,Government,12.88,2,False,Leave at doorstep
+939,Bangalore East,10-12,Friday,Letter,Individual,12.67,1,True,Signature required
+940,Bangalore South,10-12,Wednesday,Document,Government,8.86,2,False,Signature required
+941,Bangalore East,10-12,Saturday,Letter,Individual,1.05,1,True,Leave at doorstep
+942,Bangalore North,10-12,Friday,Parcel,Business,12.8,1,False,No special instructions
+943,Bangalore South,10-12,Tuesday,Document,Government,1.78,2,True,Signature required
+944,Bangalore North,3-5,Tuesday,Parcel,Business,2.5,2,False,No special instructions
+945,Bangalore North,3-5,Saturday,Package,Individual,13.12,2,True,Leave at doorstep
+946,Bangalore North,12-2,Thursday,Document,Business,4.7,2,True,Call before delivery
+947,Bangalore South,10-12,Friday,Letter,Government,5.25,2,True,Call before delivery
+948,Bangalore North,3-5,Friday,Package,Government,5.24,2,True,Signature required
+949,Bangalore North,10-12,Tuesday,Letter,Business,7.74,2,True,Signature required
+950,Bangalore South,12-2,Friday,Document,Business,4.97,2,False,Leave at doorstep
+951,Bangalore East,12-2,Tuesday,Package,Government,8.96,1,True,No special instructions
+952,Bangalore Central,3-5,Monday,Letter,Business,3.64,1,False,Signature required
+953,Bangalore East,10-12,Tuesday,Letter,Government,7.96,2,True,Leave at doorstep
+954,Bangalore Central,10-12,Friday,Package,Government,13.17,1,True,Signature required
+955,Bangalore Central,12-2,Friday,Parcel,Business,13.69,1,True,Signature required
+956,Bangalore North,12-2,Tuesday,Document,Individual,14.17,1,False,Signature required
+957,Bangalore East,10-12,Monday,Package,Business,7.29,1,False,Signature required
+958,Bangalore Central,12-2,Wednesday,Package,Business,14.04,2,False,Leave at doorstep
+959,Bangalore North,10-12,Thursday,Package,Business,4.2,1,True,No special instructions
+960,Bangalore North,3-5,Friday,Parcel,Business,1.4,1,False,Leave at doorstep
+961,Bangalore South,12-2,Saturday,Package,Government,13.17,2,True,Leave at doorstep
+962,Bangalore East,10-12,Friday,Parcel,Business,9.53,1,False,Signature required
+963,Bangalore North,3-5,Saturday,Parcel,Individual,5.79,1,False,Leave at doorstep
+964,Bangalore South,10-12,Monday,Package,Business,9.64,1,False,Signature required
+965,Bangalore South,10-12,Friday,Package,Government,13.08,1,True,Call before delivery
+966,Bangalore South,10-12,Friday,Parcel,Government,11.02,1,True,Call before delivery
+967,Bangalore East,10-12,Friday,Letter,Individual,13.84,2,False,No special instructions
+968,Bangalore South,12-2,Wednesday,Parcel,Individual,14.52,1,True,Leave at doorstep
+969,Bangalore Central,12-2,Thursday,Letter,Business,12.81,1,False,Call before delivery
+970,Bangalore Central,12-2,Friday,Parcel,Business,13.36,1,True,Leave at doorstep
+971,Bangalore Central,3-5,Tuesday,Document,Individual,8.09,2,True,Call before delivery
+972,Bangalore Central,12-2,Friday,Parcel,Government,6.96,2,False,No special instructions
+973,Bangalore South,3-5,Wednesday,Parcel,Individual,8.59,1,False,No special instructions
+974,Bangalore East,3-5,Friday,Parcel,Individual,3.21,2,False,Call before delivery
+975,Bangalore North,3-5,Saturday,Parcel,Business,10.13,1,False,No special instructions
+976,Bangalore East,3-5,Thursday,Letter,Government,5.06,1,True,No special instructions
+977,Bangalore East,10-12,Friday,Parcel,Business,13.15,2,True,No special instructions
+978,Bangalore South,10-12,Monday,Parcel,Individual,3.46,1,True,Leave at doorstep
+979,Bangalore Central,10-12,Saturday,Document,Business,1.35,2,False,Signature required
+980,Bangalore Central,10-12,Saturday,Document,Individual,13.97,1,True,Leave at doorstep
+981,Bangalore North,10-12,Monday,Parcel,Individual,11.13,2,True,Leave at doorstep
+982,Bangalore South,3-5,Tuesday,Letter,Individual,12.96,1,True,Leave at doorstep
+983,Bangalore Central,10-12,Wednesday,Package,Business,3.7,2,True,Leave at doorstep
+984,Bangalore North,12-2,Thursday,Parcel,Individual,6.72,1,False,No special instructions
+985,Bangalore Central,12-2,Saturday,Letter,Government,10.04,1,True,No special instructions
+986,Bangalore North,12-2,Thursday,Letter,Individual,4.31,2,True,No special instructions
+987,Bangalore East,12-2,Tuesday,Parcel,Individual,1.97,1,True,Signature required
+988,Bangalore North,3-5,Wednesday,Document,Business,1.05,2,True,Leave at doorstep
+989,Bangalore South,3-5,Thursday,Package,Government,11.02,1,True,Signature required
+990,Bangalore Central,12-2,Tuesday,Letter,Government,8.73,1,True,Call before delivery
+991,Bangalore Central,10-12,Friday,Parcel,Business,13.63,2,True,Call before delivery
+992,Bangalore Central,12-2,Thursday,Parcel,Individual,2.36,2,False,Call before delivery
+993,Bangalore Central,12-2,Saturday,Document,Business,8.39,2,False,Leave at doorstep
+994,Bangalore East,3-5,Monday,Letter,Business,1.36,2,True,No special instructions
+995,Bangalore South,3-5,Monday,Parcel,Business,13.75,2,False,No special instructions
+996,Bangalore East,10-12,Thursday,Package,Individual,1.75,1,True,Call before delivery
+997,Bangalore South,10-12,Monday,Document,Individual,8.13,1,False,Call before delivery
+998,Bangalore South,3-5,Wednesday,Letter,Business,10.53,1,True,No special instructions
+999,Bangalore Central,3-5,Tuesday,Package,Business,9.14,1,True,No special instructions
+1000,Bangalore East,12-2,Friday,Package,Government,8.18,1,False,Call before delivery
+1001,Bangalore South,3-5,Thursday,Document,Government,2.63,2,True,Signature required
+1002,Bangalore South,3-5,Saturday,Package,Individual,3.8,2,False,No special instructions
+1003,Bangalore East,10-12,Wednesday,Document,Government,8.76,2,True,Leave at doorstep
+1004,Bangalore South,10-12,Wednesday,Letter,Government,2.23,1,False,Call before delivery
+1005,Bangalore South,10-12,Thursday,Package,Individual,6.0,1,True,No special instructions
+1006,Bangalore East,10-12,Tuesday,Letter,Business,1.51,1,False,No special instructions
+1007,Bangalore East,10-12,Tuesday,Package,Individual,3.2,1,True,Call before delivery
+1008,Bangalore East,10-12,Friday,Document,Business,11.44,1,False,Call before delivery
+1009,Bangalore South,3-5,Saturday,Package,Individual,5.73,1,False,Signature required
+1010,Bangalore North,3-5,Saturday,Package,Individual,11.99,2,True,No special instructions
+1011,Bangalore South,12-2,Friday,Package,Individual,13.98,1,True,Signature required
+1012,Bangalore Central,3-5,Saturday,Document,Individual,1.72,1,True,Call before delivery
+1013,Bangalore South,12-2,Thursday,Letter,Business,10.62,2,False,Leave at doorstep
+1014,Bangalore Central,12-2,Tuesday,Document,Business,1.13,1,True,Leave at doorstep
+1015,Bangalore Central,3-5,Tuesday,Document,Government,5.79,1,False,No special instructions
+1016,Bangalore East,3-5,Saturday,Package,Business,5.86,1,True,No special instructions
+1017,Bangalore East,12-2,Thursday,Package,Individual,7.81,1,True,Call before delivery
+1018,Bangalore North,3-5,Tuesday,Package,Business,4.11,1,True,Leave at doorstep
+1019,Bangalore East,10-12,Friday,Document,Business,7.14,2,False,Signature required
+1020,Bangalore East,12-2,Friday,Parcel,Government,12.24,2,False,Leave at doorstep
+1021,Bangalore Central,12-2,Wednesday,Package,Business,14.77,1,True,No special instructions
+1022,Bangalore East,12-2,Friday,Parcel,Individual,1.19,2,False,Signature required
+1023,Bangalore North,3-5,Friday,Document,Individual,4.11,2,False,Signature required
+1024,Bangalore Central,12-2,Friday,Parcel,Business,4.83,1,True,Signature required
+1025,Bangalore Central,12-2,Friday,Document,Individual,5.71,1,False,No special instructions
+1026,Bangalore East,3-5,Wednesday,Document,Individual,14.44,1,True,Call before delivery
+1027,Bangalore East,3-5,Saturday,Package,Business,8.18,2,True,No special instructions
+1028,Bangalore North,3-5,Friday,Parcel,Business,10.51,1,False,Signature required
+1029,Bangalore Central,10-12,Monday,Letter,Individual,14.52,1,True,Leave at doorstep
+1030,Bangalore North,12-2,Monday,Document,Individual,14.36,1,True,Signature required
+1031,Bangalore South,3-5,Wednesday,Parcel,Business,4.86,1,False,Signature required
+1032,Bangalore South,10-12,Wednesday,Letter,Government,2.89,2,True,No special instructions
+1033,Bangalore East,12-2,Saturday,Package,Individual,4.24,1,False,No special instructions
+1034,Bangalore Central,12-2,Monday,Document,Individual,5.19,1,True,Signature required
+1035,Bangalore Central,3-5,Wednesday,Parcel,Business,14.16,2,True,Call before delivery
+1036,Bangalore East,3-5,Tuesday,Document,Individual,11.91,2,False,Signature required
+1037,Bangalore South,3-5,Monday,Document,Government,11.72,1,True,Leave at doorstep
+1038,Bangalore North,12-2,Tuesday,Parcel,Business,13.9,2,False,Leave at doorstep
+1039,Bangalore Central,10-12,Thursday,Parcel,Government,5.82,1,True,Signature required
+1040,Bangalore East,3-5,Wednesday,Parcel,Individual,12.63,1,True,Signature required
+1041,Bangalore East,10-12,Saturday,Parcel,Government,7.15,1,True,Leave at doorstep
+1042,Bangalore South,10-12,Tuesday,Document,Government,10.02,2,True,Leave at doorstep
+1043,Bangalore East,10-12,Wednesday,Letter,Government,8.42,1,False,Leave at doorstep
+1044,Bangalore Central,12-2,Friday,Parcel,Business,4.84,2,True,Leave at doorstep
+1045,Bangalore East,3-5,Thursday,Letter,Individual,11.33,1,False,Leave at doorstep
+1046,Bangalore Central,10-12,Thursday,Document,Government,5.18,2,False,No special instructions
+1047,Bangalore Central,12-2,Tuesday,Package,Government,7.1,2,True,No special instructions
+1048,Bangalore Central,10-12,Friday,Document,Government,11.29,2,False,Call before delivery
+1049,Bangalore South,10-12,Wednesday,Letter,Individual,11.16,1,True,Call before delivery
+1050,Bangalore East,3-5,Wednesday,Letter,Government,3.74,1,False,No special instructions
+1051,Bangalore Central,3-5,Saturday,Package,Business,11.13,2,True,Signature required
+1052,Bangalore East,10-12,Saturday,Letter,Business,2.91,2,False,Leave at doorstep
+1053,Bangalore North,3-5,Monday,Document,Business,4.23,1,False,Signature required
+1054,Bangalore South,12-2,Tuesday,Letter,Business,1.05,2,True,No special instructions
+1055,Bangalore North,10-12,Saturday,Letter,Government,13.05,2,False,Leave at doorstep
+1056,Bangalore South,10-12,Saturday,Document,Individual,2.52,2,False,Leave at doorstep
+1057,Bangalore North,10-12,Thursday,Package,Government,14.15,2,False,Leave at doorstep
+1058,Bangalore South,10-12,Saturday,Parcel,Individual,8.53,2,True,No special instructions
+1059,Bangalore North,12-2,Saturday,Document,Business,6.09,1,True,Signature required
+1060,Bangalore South,10-12,Saturday,Letter,Business,2.13,1,True,Signature required
+1061,Bangalore North,10-12,Wednesday,Parcel,Government,6.69,2,True,No special instructions
+1062,Bangalore Central,3-5,Friday,Letter,Government,10.44,1,True,Leave at doorstep
+1063,Bangalore East,10-12,Monday,Package,Government,6.28,2,False,Signature required
+1064,Bangalore Central,10-12,Thursday,Letter,Government,11.91,1,False,Call before delivery
+1065,Bangalore North,3-5,Wednesday,Document,Business,12.94,1,False,Leave at doorstep
+1066,Bangalore North,10-12,Thursday,Package,Individual,7.7,2,False,Call before delivery
+1067,Bangalore North,10-12,Saturday,Document,Government,1.04,2,False,No special instructions
+1068,Bangalore North,10-12,Wednesday,Parcel,Individual,5.65,1,True,Leave at doorstep
+1069,Bangalore East,10-12,Tuesday,Parcel,Individual,7.44,2,False,No special instructions
+1070,Bangalore East,10-12,Monday,Document,Business,8.92,2,True,Leave at doorstep
+1071,Bangalore East,10-12,Tuesday,Letter,Government,14.23,1,True,Call before delivery
+1072,Bangalore East,12-2,Thursday,Parcel,Individual,10.92,1,False,Call before delivery
+1073,Bangalore South,12-2,Saturday,Parcel,Business,2.47,2,True,No special instructions
+1074,Bangalore Central,12-2,Friday,Package,Government,4.09,2,True,Signature required
+1075,Bangalore East,3-5,Saturday,Package,Business,12.29,1,False,Signature required
+1076,Bangalore South,3-5,Tuesday,Document,Individual,12.73,2,True,Signature required
+1077,Bangalore Central,10-12,Friday,Package,Business,6.62,2,False,No special instructions
+1078,Bangalore North,3-5,Friday,Parcel,Business,11.14,2,False,No special instructions
+1079,Bangalore Central,12-2,Tuesday,Package,Business,7.79,1,True,Call before delivery
+1080,Bangalore East,12-2,Thursday,Parcel,Individual,7.22,1,True,No special instructions
+1081,Bangalore East,12-2,Wednesday,Document,Individual,5.26,1,False,Signature required
+1082,Bangalore East,12-2,Saturday,Parcel,Individual,4.1,1,True,Signature required
+1083,Bangalore East,3-5,Wednesday,Document,Individual,7.47,1,False,Leave at doorstep
+1084,Bangalore Central,10-12,Wednesday,Document,Individual,6.33,2,False,Leave at doorstep
+1085,Bangalore Central,10-12,Saturday,Parcel,Business,12.32,2,True,Leave at doorstep
+1086,Bangalore Central,3-5,Wednesday,Letter,Business,4.12,2,False,Signature required
+1087,Bangalore East,3-5,Monday,Document,Business,10.28,1,False,Leave at doorstep
+1088,Bangalore East,3-5,Monday,Document,Business,8.45,2,True,Signature required
+1089,Bangalore East,12-2,Friday,Document,Government,6.67,1,False,No special instructions
+1090,Bangalore North,12-2,Wednesday,Letter,Government,11.51,1,True,Call before delivery
+1091,Bangalore Central,10-12,Saturday,Document,Business,12.55,2,True,Call before delivery
+1092,Bangalore Central,10-12,Monday,Document,Government,1.07,1,False,Call before delivery
+1093,Bangalore South,3-5,Friday,Package,Business,12.56,2,False,Call before delivery
+1094,Bangalore South,12-2,Friday,Parcel,Individual,5.68,2,False,No special instructions
+1095,Bangalore Central,10-12,Thursday,Parcel,Individual,12.48,2,True,Call before delivery
+1096,Bangalore East,3-5,Thursday,Package,Business,8.28,2,True,No special instructions
+1097,Bangalore Central,10-12,Friday,Package,Individual,1.04,2,True,Leave at doorstep
+1098,Bangalore Central,12-2,Wednesday,Parcel,Individual,1.84,1,False,Call before delivery
+1099,Bangalore East,10-12,Thursday,Document,Individual,11.8,1,False,Call before delivery
+1100,Bangalore South,3-5,Friday,Document,Individual,14.5,1,False,No special instructions
+1101,Bangalore South,12-2,Saturday,Document,Business,6.53,1,False,No special instructions
+1102,Bangalore South,10-12,Monday,Package,Individual,11.2,1,False,Call before delivery
+1103,Bangalore East,12-2,Monday,Parcel,Individual,12.79,2,False,Leave at doorstep
+1104,Bangalore Central,3-5,Thursday,Parcel,Business,13.69,1,False,No special instructions
+1105,Bangalore North,3-5,Friday,Package,Business,12.37,1,False,Leave at doorstep
+1106,Bangalore Central,10-12,Friday,Parcel,Business,11.26,1,False,Call before delivery
+1107,Bangalore Central,12-2,Monday,Letter,Government,10.12,1,False,Leave at doorstep
+1108,Bangalore Central,3-5,Wednesday,Letter,Business,10.53,2,True,No special instructions
+1109,Bangalore South,3-5,Monday,Letter,Individual,12.98,1,True,Call before delivery
+1110,Bangalore South,12-2,Saturday,Letter,Government,13.08,2,False,Signature required
+1111,Bangalore Central,3-5,Saturday,Parcel,Business,14.88,2,False,Signature required
+1112,Bangalore South,10-12,Friday,Document,Individual,2.7,2,True,Leave at doorstep
+1113,Bangalore North,12-2,Friday,Parcel,Business,6.18,2,False,Leave at doorstep
+1114,Bangalore East,12-2,Saturday,Document,Business,14.92,1,True,No special instructions
+1115,Bangalore East,12-2,Friday,Letter,Business,7.97,2,True,Call before delivery
+1116,Bangalore South,12-2,Saturday,Letter,Individual,3.08,2,True,Call before delivery
+1117,Bangalore East,3-5,Tuesday,Letter,Business,7.93,2,False,No special instructions
+1118,Bangalore Central,10-12,Thursday,Document,Government,11.49,1,False,Leave at doorstep
+1119,Bangalore South,10-12,Tuesday,Document,Business,9.51,1,True,Leave at doorstep
+1120,Bangalore East,3-5,Friday,Document,Government,7.69,1,False,Leave at doorstep
+1121,Bangalore North,12-2,Friday,Parcel,Government,12.49,2,True,Signature required
+1122,Bangalore East,3-5,Saturday,Letter,Business,14.12,2,False,Call before delivery
+1123,Bangalore Central,3-5,Friday,Package,Individual,13.0,2,True,Signature required
+1124,Bangalore Central,10-12,Monday,Letter,Business,12.68,2,False,Call before delivery
+1125,Bangalore Central,12-2,Friday,Document,Individual,6.23,1,False,Call before delivery
+1126,Bangalore East,3-5,Thursday,Parcel,Government,13.76,2,True,Signature required
+1127,Bangalore North,12-2,Thursday,Document,Business,12.12,1,True,No special instructions
+1128,Bangalore North,3-5,Friday,Parcel,Individual,1.43,2,False,Leave at doorstep
+1129,Bangalore East,3-5,Saturday,Parcel,Business,3.26,1,True,Signature required
+1130,Bangalore South,10-12,Friday,Package,Business,4.59,1,False,No special instructions
+1131,Bangalore East,3-5,Wednesday,Document,Business,12.92,1,True,Signature required
+1132,Bangalore North,3-5,Monday,Parcel,Individual,1.68,1,False,No special instructions
+1133,Bangalore North,3-5,Tuesday,Document,Individual,6.99,1,True,Leave at doorstep
+1134,Bangalore South,10-12,Wednesday,Document,Government,13.44,1,True,No special instructions
+1135,Bangalore Central,10-12,Wednesday,Parcel,Individual,13.54,2,False,No special instructions
+1136,Bangalore North,12-2,Saturday,Document,Individual,9.3,1,False,Call before delivery
+1137,Bangalore North,3-5,Saturday,Package,Government,6.63,2,False,No special instructions
+1138,Bangalore South,10-12,Monday,Parcel,Government,11.53,2,True,Signature required
+1139,Bangalore Central,10-12,Saturday,Letter,Individual,6.78,1,True,Call before delivery
+1140,Bangalore East,12-2,Wednesday,Document,Individual,13.69,1,False,Signature required
+1141,Bangalore South,10-12,Tuesday,Package,Government,4.65,2,True,Signature required
+1142,Bangalore South,3-5,Thursday,Package,Business,4.99,2,False,Call before delivery
+1143,Bangalore East,12-2,Friday,Letter,Government,5.1,2,True,Call before delivery
+1144,Bangalore North,3-5,Saturday,Package,Business,11.87,1,True,No special instructions
+1145,Bangalore North,12-2,Saturday,Letter,Government,11.11,1,True,Call before delivery
+1146,Bangalore North,12-2,Monday,Parcel,Government,13.44,1,True,No special instructions
+1147,Bangalore North,12-2,Tuesday,Parcel,Government,8.4,2,True,Call before delivery
+1148,Bangalore South,3-5,Monday,Package,Business,9.99,2,False,Signature required
+1149,Bangalore South,3-5,Monday,Letter,Business,10.11,1,False,Leave at doorstep
+1150,Bangalore Central,10-12,Saturday,Letter,Government,10.71,1,True,No special instructions
+1151,Bangalore East,12-2,Friday,Parcel,Government,12.77,1,False,No special instructions
+1152,Bangalore East,3-5,Thursday,Parcel,Individual,10.49,2,True,Call before delivery
+1153,Bangalore East,3-5,Wednesday,Letter,Individual,9.82,2,True,Signature required
+1154,Bangalore North,10-12,Saturday,Package,Government,2.25,1,True,Leave at doorstep
+1155,Bangalore East,10-12,Thursday,Parcel,Government,13.34,2,False,No special instructions
+1156,Bangalore North,12-2,Tuesday,Package,Individual,11.76,1,False,No special instructions
+1157,Bangalore North,3-5,Thursday,Letter,Government,11.71,1,False,Leave at doorstep
+1158,Bangalore North,10-12,Saturday,Document,Individual,8.0,1,False,Leave at doorstep
+1159,Bangalore North,12-2,Monday,Package,Individual,6.26,1,False,Leave at doorstep
+1160,Bangalore South,12-2,Friday,Package,Business,1.0,2,True,Signature required
+1161,Bangalore Central,3-5,Wednesday,Package,Business,2.8,2,False,No special instructions
+1162,Bangalore Central,3-5,Monday,Document,Individual,4.66,2,False,No special instructions
+1163,Bangalore East,3-5,Saturday,Parcel,Government,14.72,1,False,Call before delivery
+1164,Bangalore North,12-2,Friday,Document,Business,2.09,2,True,Call before delivery
+1165,Bangalore East,10-12,Saturday,Parcel,Government,3.07,1,True,No special instructions
+1166,Bangalore South,3-5,Saturday,Package,Business,10.35,1,False,Call before delivery
+1167,Bangalore North,12-2,Monday,Letter,Government,13.9,1,True,Leave at doorstep
+1168,Bangalore East,3-5,Thursday,Document,Individual,8.48,2,False,No special instructions
+1169,Bangalore North,3-5,Friday,Parcel,Individual,7.36,1,False,No special instructions
+1170,Bangalore Central,3-5,Monday,Document,Business,14.05,2,True,Signature required
+1171,Bangalore Central,10-12,Thursday,Document,Individual,10.13,2,False,No special instructions
+1172,Bangalore Central,10-12,Friday,Package,Government,6.42,1,False,Call before delivery
+1173,Bangalore Central,3-5,Wednesday,Letter,Business,10.88,2,False,No special instructions
+1174,Bangalore South,3-5,Tuesday,Parcel,Individual,14.55,1,False,Call before delivery
+1175,Bangalore East,12-2,Thursday,Document,Business,7.37,2,False,Signature required
+1176,Bangalore North,10-12,Friday,Package,Individual,13.44,2,False,Call before delivery
+1177,Bangalore North,3-5,Friday,Document,Government,5.77,2,False,Signature required
+1178,Bangalore South,3-5,Wednesday,Letter,Business,6.24,2,True,Signature required
+1179,Bangalore Central,12-2,Monday,Document,Business,4.78,2,True,Signature required
+1180,Bangalore South,12-2,Saturday,Package,Business,3.0,1,False,No special instructions
+1181,Bangalore East,10-12,Tuesday,Document,Government,2.93,1,False,Signature required
+1182,Bangalore North,3-5,Friday,Package,Individual,11.38,1,True,Leave at doorstep
+1183,Bangalore North,3-5,Saturday,Letter,Business,4.74,1,True,Call before delivery
+1184,Bangalore Central,10-12,Friday,Letter,Business,9.38,1,True,Call before delivery
+1185,Bangalore South,12-2,Monday,Package,Government,4.87,1,False,Call before delivery
+1186,Bangalore South,10-12,Friday,Letter,Business,14.73,1,False,Call before delivery
+1187,Bangalore North,3-5,Friday,Letter,Business,12.76,1,False,Leave at doorstep
+1188,Bangalore Central,12-2,Thursday,Parcel,Government,2.11,1,True,No special instructions
+1189,Bangalore North,12-2,Saturday,Letter,Business,3.87,1,True,Call before delivery
+1190,Bangalore Central,10-12,Tuesday,Parcel,Business,10.37,1,False,Call before delivery
+1191,Bangalore East,3-5,Friday,Package,Government,6.11,1,False,No special instructions
+1192,Bangalore Central,3-5,Friday,Parcel,Individual,1.59,1,True,Signature required
+1193,Bangalore North,3-5,Saturday,Document,Individual,9.83,1,False,Leave at doorstep
+1194,Bangalore East,10-12,Tuesday,Package,Individual,8.39,1,False,Call before delivery
+1195,Bangalore North,10-12,Thursday,Letter,Government,10.49,2,False,Leave at doorstep
+1196,Bangalore North,10-12,Saturday,Package,Individual,9.57,2,True,Call before delivery
+1197,Bangalore North,12-2,Tuesday,Letter,Business,8.5,2,False,Call before delivery
+1198,Bangalore Central,3-5,Wednesday,Parcel,Government,10.74,1,True,Call before delivery
+1199,Bangalore North,3-5,Saturday,Parcel,Business,14.18,2,False,No special instructions
+1200,Bangalore North,3-5,Friday,Package,Business,2.51,2,True,Leave at doorstep
+1201,Bangalore Central,12-2,Saturday,Letter,Business,2.31,2,True,Call before delivery
+1202,Bangalore East,10-12,Monday,Package,Individual,9.89,2,True,Call before delivery
+1203,Bangalore North,3-5,Friday,Document,Business,7.77,2,True,Signature required
+1204,Bangalore Central,10-12,Monday,Parcel,Business,14.02,2,False,Signature required
+1205,Bangalore Central,12-2,Wednesday,Letter,Business,4.62,1,True,No special instructions
+1206,Bangalore North,12-2,Thursday,Parcel,Government,3.0,1,True,Call before delivery
+1207,Bangalore Central,10-12,Monday,Package,Individual,10.1,2,True,Leave at doorstep
+1208,Bangalore Central,3-5,Saturday,Package,Individual,9.92,1,False,Signature required
+1209,Bangalore South,10-12,Thursday,Letter,Government,13.81,2,True,Signature required
+1210,Bangalore Central,12-2,Tuesday,Document,Business,3.92,2,False,Leave at doorstep
+1211,Bangalore East,12-2,Wednesday,Document,Government,2.5,1,False,Call before delivery
+1212,Bangalore South,3-5,Saturday,Letter,Government,8.47,2,False,Call before delivery
+1213,Bangalore Central,10-12,Thursday,Letter,Individual,12.55,2,True,Signature required
+1214,Bangalore East,12-2,Saturday,Document,Business,10.41,2,False,Signature required
+1215,Bangalore South,12-2,Monday,Package,Government,4.42,1,True,No special instructions
+1216,Bangalore Central,3-5,Saturday,Parcel,Government,6.8,1,False,Call before delivery
+1217,Bangalore East,10-12,Thursday,Parcel,Business,13.78,1,True,Leave at doorstep
+1218,Bangalore East,10-12,Wednesday,Letter,Government,9.57,1,True,No special instructions
+1219,Bangalore North,3-5,Saturday,Document,Government,6.1,1,False,Leave at doorstep
+1220,Bangalore North,10-12,Tuesday,Document,Business,12.15,1,False,Leave at doorstep
+1221,Bangalore East,10-12,Wednesday,Letter,Individual,5.21,1,True,Leave at doorstep
+1222,Bangalore South,12-2,Tuesday,Letter,Individual,11.01,1,True,No special instructions
+1223,Bangalore North,10-12,Tuesday,Package,Individual,8.18,1,True,Leave at doorstep
+1224,Bangalore Central,3-5,Tuesday,Letter,Government,10.06,1,False,Signature required
+1225,Bangalore North,3-5,Wednesday,Letter,Individual,2.55,2,True,No special instructions
+1226,Bangalore North,3-5,Thursday,Letter,Business,5.53,1,False,Signature required
+1227,Bangalore East,3-5,Saturday,Letter,Individual,12.6,2,False,Call before delivery
+1228,Bangalore South,12-2,Saturday,Document,Individual,1.05,2,False,No special instructions
+1229,Bangalore North,12-2,Monday,Parcel,Individual,4.36,1,True,Signature required
+1230,Bangalore South,3-5,Tuesday,Package,Business,3.17,2,False,Call before delivery
+1231,Bangalore East,3-5,Tuesday,Parcel,Government,1.12,2,True,Signature required
+1232,Bangalore Central,12-2,Friday,Package,Individual,14.28,1,False,Leave at doorstep
+1233,Bangalore East,12-2,Thursday,Parcel,Business,6.06,2,True,Signature required
+1234,Bangalore North,12-2,Monday,Letter,Business,12.84,2,False,Signature required
+1235,Bangalore South,3-5,Tuesday,Parcel,Business,5.56,2,True,Leave at doorstep
+1236,Bangalore Central,12-2,Tuesday,Document,Individual,4.03,2,True,Signature required
+1237,Bangalore South,3-5,Saturday,Letter,Individual,11.21,2,True,Call before delivery
+1238,Bangalore South,10-12,Tuesday,Parcel,Government,5.2,1,False,Signature required
+1239,Bangalore South,10-12,Monday,Document,Individual,2.34,2,True,Call before delivery
+1240,Bangalore South,10-12,Monday,Letter,Business,13.17,2,True,Leave at doorstep
+1241,Bangalore South,10-12,Wednesday,Package,Business,13.1,2,False,Leave at doorstep
+1242,Bangalore Central,12-2,Monday,Document,Business,1.68,1,False,Call before delivery
+1243,Bangalore Central,12-2,Saturday,Document,Government,14.73,1,True,Leave at doorstep
+1244,Bangalore East,12-2,Tuesday,Parcel,Government,6.35,2,True,No special instructions
+1245,Bangalore East,3-5,Tuesday,Package,Business,1.91,2,True,No special instructions
+1246,Bangalore Central,3-5,Saturday,Parcel,Individual,7.04,2,True,Call before delivery
+1247,Bangalore Central,12-2,Friday,Package,Individual,12.75,2,False,Signature required
+1248,Bangalore North,3-5,Monday,Parcel,Government,14.41,2,True,Leave at doorstep
+1249,Bangalore North,3-5,Friday,Letter,Government,3.38,1,False,No special instructions
+1250,Bangalore Central,10-12,Saturday,Letter,Government,3.57,1,True,Call before delivery
+1251,Bangalore East,10-12,Wednesday,Parcel,Government,4.23,2,False,Leave at doorstep
+1252,Bangalore East,3-5,Tuesday,Letter,Individual,2.8,2,True,Leave at doorstep
+1253,Bangalore Central,3-5,Tuesday,Package,Individual,7.75,1,True,Leave at doorstep
+1254,Bangalore South,12-2,Thursday,Document,Business,5.56,1,True,Leave at doorstep
+1255,Bangalore East,12-2,Tuesday,Letter,Business,9.67,2,True,Call before delivery
+1256,Bangalore East,10-12,Thursday,Parcel,Government,5.19,2,False,No special instructions
+1257,Bangalore Central,12-2,Wednesday,Parcel,Individual,13.91,1,False,Leave at doorstep
+1258,Bangalore Central,3-5,Tuesday,Document,Individual,8.71,2,False,Leave at doorstep
+1259,Bangalore East,12-2,Thursday,Package,Business,10.76,2,False,Call before delivery
+1260,Bangalore Central,12-2,Tuesday,Parcel,Government,3.21,2,True,Signature required
+1261,Bangalore Central,3-5,Friday,Letter,Individual,12.93,2,True,Signature required
+1262,Bangalore Central,3-5,Monday,Letter,Government,11.49,2,False,Signature required
+1263,Bangalore North,10-12,Friday,Package,Business,3.4,1,False,No special instructions
+1264,Bangalore East,3-5,Monday,Package,Business,6.82,1,False,Leave at doorstep
+1265,Bangalore East,3-5,Friday,Document,Individual,6.65,1,True,Signature required
+1266,Bangalore South,10-12,Monday,Package,Government,12.88,2,True,Call before delivery
+1267,Bangalore South,10-12,Friday,Document,Business,3.28,2,True,Signature required
+1268,Bangalore North,12-2,Friday,Document,Government,14.42,2,False,Signature required
+1269,Bangalore North,3-5,Wednesday,Document,Government,1.79,2,False,Signature required
+1270,Bangalore South,3-5,Monday,Document,Business,3.34,1,False,Call before delivery
+1271,Bangalore East,12-2,Wednesday,Parcel,Business,6.72,1,False,Call before delivery
+1272,Bangalore East,10-12,Tuesday,Document,Individual,4.28,1,True,Signature required
+1273,Bangalore Central,10-12,Thursday,Package,Business,14.15,2,True,Leave at doorstep
+1274,Bangalore South,3-5,Monday,Package,Individual,5.81,2,True,Call before delivery
+1275,Bangalore Central,3-5,Monday,Document,Individual,5.19,1,False,Leave at doorstep
+1276,Bangalore Central,10-12,Tuesday,Letter,Business,4.82,2,True,Signature required
+1277,Bangalore South,10-12,Friday,Document,Individual,1.83,2,False,No special instructions
+1278,Bangalore South,3-5,Tuesday,Document,Government,11.98,1,False,Call before delivery
+1279,Bangalore East,3-5,Monday,Letter,Individual,13.75,1,False,Call before delivery
+1280,Bangalore East,3-5,Saturday,Document,Government,10.62,2,True,Call before delivery
+1281,Bangalore South,12-2,Tuesday,Parcel,Individual,12.52,2,False,Signature required
+1282,Bangalore North,3-5,Wednesday,Parcel,Government,6.53,1,False,Call before delivery
+1283,Bangalore Central,12-2,Wednesday,Package,Government,10.48,1,False,No special instructions
+1284,Bangalore South,12-2,Thursday,Document,Government,8.84,1,True,Call before delivery
+1285,Bangalore North,3-5,Monday,Package,Individual,5.85,1,True,No special instructions
+1286,Bangalore North,10-12,Tuesday,Document,Business,1.87,1,False,Signature required
+1287,Bangalore North,12-2,Monday,Letter,Government,7.72,2,True,Call before delivery
+1288,Bangalore North,12-2,Tuesday,Document,Business,2.11,2,True,Signature required
+1289,Bangalore East,10-12,Thursday,Letter,Individual,5.79,2,True,Signature required
+1290,Bangalore South,12-2,Monday,Parcel,Business,7.38,2,False,No special instructions
+1291,Bangalore East,10-12,Wednesday,Document,Business,8.87,2,False,Leave at doorstep
+1292,Bangalore Central,3-5,Saturday,Parcel,Business,11.57,1,True,Call before delivery
+1293,Bangalore Central,12-2,Thursday,Letter,Individual,8.32,1,False,No special instructions
+1294,Bangalore Central,12-2,Wednesday,Letter,Business,14.49,1,False,Leave at doorstep
+1295,Bangalore North,3-5,Saturday,Letter,Individual,14.42,2,False,Leave at doorstep
+1296,Bangalore South,3-5,Monday,Parcel,Individual,6.92,2,True,Leave at doorstep
+1297,Bangalore North,10-12,Saturday,Package,Government,2.15,2,False,Leave at doorstep
+1298,Bangalore South,3-5,Wednesday,Document,Business,7.56,2,True,Leave at doorstep
+1299,Bangalore East,10-12,Friday,Package,Individual,9.65,2,False,Call before delivery
+1300,Bangalore East,3-5,Friday,Document,Business,9.44,1,False,Leave at doorstep
+1301,Bangalore North,3-5,Tuesday,Document,Individual,4.35,2,True,Leave at doorstep
+1302,Bangalore East,12-2,Monday,Document,Government,12.73,1,True,Signature required
+1303,Bangalore Central,10-12,Wednesday,Package,Business,8.12,2,False,Call before delivery
+1304,Bangalore North,12-2,Tuesday,Document,Government,1.38,1,True,No special instructions
+1305,Bangalore Central,10-12,Thursday,Package,Individual,11.52,2,True,Signature required
+1306,Bangalore North,10-12,Thursday,Package,Individual,13.0,2,False,Leave at doorstep
+1307,Bangalore South,10-12,Friday,Document,Individual,5.58,2,True,No special instructions
+1308,Bangalore Central,12-2,Wednesday,Letter,Government,3.24,2,True,Leave at doorstep
+1309,Bangalore North,12-2,Friday,Letter,Government,12.71,2,True,No special instructions
+1310,Bangalore North,10-12,Friday,Package,Individual,13.25,2,True,Leave at doorstep
+1311,Bangalore South,10-12,Tuesday,Parcel,Government,1.1,2,False,No special instructions
+1312,Bangalore East,12-2,Thursday,Letter,Business,6.78,1,True,Call before delivery
+1313,Bangalore North,12-2,Tuesday,Parcel,Business,2.84,2,True,Signature required
+1314,Bangalore East,10-12,Wednesday,Package,Individual,5.18,2,False,Leave at doorstep
+1315,Bangalore South,10-12,Monday,Document,Business,5.89,2,True,Signature required
+1316,Bangalore North,12-2,Saturday,Parcel,Individual,1.61,2,False,Signature required
+1317,Bangalore North,12-2,Saturday,Package,Government,8.48,2,False,Leave at doorstep
+1318,Bangalore Central,12-2,Saturday,Parcel,Individual,3.95,1,True,Signature required
+1319,Bangalore South,3-5,Thursday,Package,Business,12.71,2,True,Call before delivery
+1320,Bangalore North,10-12,Friday,Document,Government,4.72,2,True,Leave at doorstep
+1321,Bangalore Central,10-12,Tuesday,Letter,Individual,3.01,2,False,Leave at doorstep
+1322,Bangalore North,12-2,Friday,Document,Government,4.43,2,False,Call before delivery
+1323,Bangalore North,12-2,Saturday,Parcel,Government,4.42,1,True,Signature required
+1324,Bangalore South,12-2,Friday,Package,Business,3.09,1,False,No special instructions
+1325,Bangalore North,10-12,Friday,Parcel,Government,6.86,2,False,Signature required
+1326,Bangalore North,10-12,Tuesday,Package,Individual,14.84,2,True,Signature required
+1327,Bangalore North,10-12,Wednesday,Letter,Business,5.0,2,True,Leave at doorstep
+1328,Bangalore North,10-12,Friday,Letter,Government,14.97,2,True,Call before delivery
+1329,Bangalore South,12-2,Monday,Document,Government,11.88,2,True,Signature required
+1330,Bangalore East,12-2,Friday,Document,Government,14.49,1,False,Signature required
+1331,Bangalore North,3-5,Wednesday,Letter,Government,10.87,2,False,No special instructions
+1332,Bangalore Central,3-5,Thursday,Document,Individual,12.07,2,False,Call before delivery
+1333,Bangalore South,10-12,Thursday,Parcel,Government,11.97,2,True,Call before delivery
+1334,Bangalore Central,3-5,Friday,Document,Individual,10.57,1,False,Signature required
+1335,Bangalore North,3-5,Monday,Package,Government,2.62,1,True,No special instructions
+1336,Bangalore South,10-12,Tuesday,Package,Individual,10.49,1,False,Call before delivery
+1337,Bangalore North,10-12,Tuesday,Package,Individual,9.8,2,True,Call before delivery
+1338,Bangalore North,3-5,Saturday,Letter,Business,13.8,2,False,Leave at doorstep
+1339,Bangalore East,12-2,Monday,Document,Government,14.55,1,True,No special instructions
+1340,Bangalore South,3-5,Saturday,Letter,Business,12.87,1,False,Signature required
+1341,Bangalore South,10-12,Monday,Letter,Government,2.2,2,False,Leave at doorstep
+1342,Bangalore Central,3-5,Wednesday,Letter,Individual,10.18,1,False,Call before delivery
+1343,Bangalore South,12-2,Saturday,Letter,Government,7.98,2,True,Call before delivery
+1344,Bangalore Central,12-2,Tuesday,Package,Individual,1.27,2,True,No special instructions
+1345,Bangalore East,12-2,Wednesday,Document,Individual,11.42,2,False,Signature required
+1346,Bangalore East,12-2,Thursday,Document,Business,12.96,2,True,Signature required
+1347,Bangalore Central,3-5,Saturday,Parcel,Individual,12.22,2,True,Signature required
+1348,Bangalore Central,3-5,Monday,Letter,Individual,14.46,2,True,Signature required
+1349,Bangalore Central,3-5,Friday,Letter,Business,6.74,2,False,No special instructions
+1350,Bangalore North,3-5,Saturday,Parcel,Individual,9.24,2,True,Call before delivery
+1351,Bangalore East,3-5,Friday,Document,Individual,7.79,1,False,No special instructions
+1352,Bangalore North,3-5,Monday,Letter,Government,7.85,2,False,Signature required
+1353,Bangalore South,3-5,Saturday,Parcel,Government,14.22,1,False,Leave at doorstep
+1354,Bangalore Central,12-2,Friday,Package,Business,5.68,1,False,Call before delivery
+1355,Bangalore South,10-12,Friday,Package,Government,4.77,2,False,No special instructions
+1356,Bangalore South,3-5,Saturday,Parcel,Individual,5.94,1,True,No special instructions
+1357,Bangalore East,12-2,Thursday,Letter,Government,5.97,1,True,Signature required
+1358,Bangalore Central,10-12,Saturday,Package,Government,13.85,2,False,No special instructions
+1359,Bangalore East,10-12,Friday,Package,Government,7.93,1,True,Leave at doorstep
+1360,Bangalore East,3-5,Thursday,Package,Government,2.11,1,True,Call before delivery
+1361,Bangalore East,10-12,Friday,Letter,Business,4.8,2,False,Signature required
+1362,Bangalore Central,12-2,Monday,Parcel,Business,9.36,2,False,Leave at doorstep
+1363,Bangalore Central,12-2,Friday,Package,Individual,11.95,1,False,No special instructions
+1364,Bangalore East,12-2,Tuesday,Package,Individual,3.09,1,True,No special instructions
+1365,Bangalore Central,10-12,Monday,Parcel,Business,9.69,2,True,Leave at doorstep
+1366,Bangalore South,12-2,Wednesday,Parcel,Government,6.41,1,True,Signature required
+1367,Bangalore East,10-12,Tuesday,Parcel,Government,1.22,2,False,Signature required
+1368,Bangalore North,12-2,Tuesday,Document,Business,11.67,2,False,Leave at doorstep
+1369,Bangalore North,3-5,Thursday,Parcel,Business,1.33,1,False,Leave at doorstep
+1370,Bangalore North,3-5,Tuesday,Parcel,Government,4.94,1,True,Signature required
+1371,Bangalore South,12-2,Wednesday,Letter,Individual,6.39,1,False,Call before delivery
+1372,Bangalore Central,3-5,Saturday,Document,Individual,14.83,1,False,No special instructions
+1373,Bangalore South,12-2,Wednesday,Letter,Government,7.85,1,False,Signature required
+1374,Bangalore Central,3-5,Saturday,Document,Individual,2.87,1,True,Call before delivery
+1375,Bangalore South,12-2,Tuesday,Letter,Individual,5.86,1,True,Signature required
+1376,Bangalore South,3-5,Thursday,Document,Business,14.53,1,False,Signature required
+1377,Bangalore North,3-5,Wednesday,Letter,Business,8.33,1,True,No special instructions
+1378,Bangalore Central,12-2,Tuesday,Parcel,Individual,3.44,2,False,Leave at doorstep
+1379,Bangalore Central,12-2,Monday,Package,Individual,12.22,1,False,Call before delivery
+1380,Bangalore Central,12-2,Saturday,Letter,Individual,9.69,2,True,Signature required
+1381,Bangalore East,3-5,Tuesday,Document,Government,5.47,2,True,Leave at doorstep
+1382,Bangalore East,10-12,Monday,Letter,Government,9.88,1,False,Signature required
+1383,Bangalore East,12-2,Saturday,Letter,Government,13.47,2,True,Call before delivery
+1384,Bangalore South,3-5,Monday,Letter,Government,9.26,1,False,Leave at doorstep
+1385,Bangalore North,12-2,Friday,Letter,Government,7.61,2,False,Leave at doorstep
+1386,Bangalore Central,12-2,Monday,Parcel,Government,3.07,2,False,Signature required
+1387,Bangalore South,3-5,Thursday,Letter,Government,3.63,1,False,Leave at doorstep
+1388,Bangalore North,3-5,Monday,Package,Government,12.02,2,True,No special instructions
+1389,Bangalore North,3-5,Wednesday,Document,Government,11.16,2,True,Call before delivery
+1390,Bangalore East,12-2,Wednesday,Letter,Business,12.27,2,False,No special instructions
+1391,Bangalore Central,12-2,Wednesday,Parcel,Individual,6.43,2,True,No special instructions
+1392,Bangalore North,10-12,Saturday,Parcel,Government,14.27,1,False,Signature required
+1393,Bangalore East,3-5,Saturday,Letter,Individual,14.37,2,True,Signature required
+1394,Bangalore Central,3-5,Monday,Package,Government,12.61,1,False,No special instructions
+1395,Bangalore East,10-12,Saturday,Letter,Business,10.12,2,True,Call before delivery
+1396,Bangalore Central,12-2,Tuesday,Letter,Government,10.42,2,False,Signature required
+1397,Bangalore South,10-12,Tuesday,Package,Business,1.34,2,False,Leave at doorstep
+1398,Bangalore South,10-12,Friday,Parcel,Business,10.55,2,True,Leave at doorstep
+1399,Bangalore North,12-2,Thursday,Letter,Individual,1.68,2,True,No special instructions
+1400,Bangalore North,10-12,Saturday,Package,Individual,10.08,2,True,No special instructions
+1401,Bangalore Central,3-5,Wednesday,Document,Business,4.37,1,False,Leave at doorstep
+1402,Bangalore East,10-12,Thursday,Parcel,Individual,13.65,1,False,Signature required
+1403,Bangalore East,3-5,Tuesday,Parcel,Business,14.94,1,True,Call before delivery
+1404,Bangalore North,12-2,Thursday,Document,Individual,2.53,2,False,Leave at doorstep
+1405,Bangalore South,3-5,Friday,Letter,Government,3.4,1,True,Leave at doorstep
+1406,Bangalore East,12-2,Saturday,Letter,Business,1.56,1,False,Signature required
+1407,Bangalore North,10-12,Wednesday,Parcel,Business,7.35,1,True,Leave at doorstep
+1408,Bangalore East,12-2,Wednesday,Package,Business,12.7,1,False,Leave at doorstep
+1409,Bangalore East,12-2,Friday,Document,Individual,7.52,1,False,Call before delivery
+1410,Bangalore South,12-2,Friday,Document,Government,10.13,2,True,Call before delivery
+1411,Bangalore East,10-12,Wednesday,Letter,Individual,1.44,1,False,Leave at doorstep
+1412,Bangalore Central,3-5,Thursday,Parcel,Government,14.25,2,False,Signature required
+1413,Bangalore North,3-5,Saturday,Package,Business,5.03,2,False,Leave at doorstep
+1414,Bangalore Central,3-5,Friday,Document,Business,7.64,1,False,Call before delivery
+1415,Bangalore South,12-2,Saturday,Letter,Business,10.01,1,True,Call before delivery
+1416,Bangalore Central,3-5,Wednesday,Parcel,Individual,7.27,2,True,Signature required
+1417,Bangalore East,3-5,Tuesday,Document,Government,3.69,2,False,Call before delivery
+1418,Bangalore East,10-12,Saturday,Package,Business,2.15,2,False,Leave at doorstep
+1419,Bangalore Central,12-2,Monday,Parcel,Business,8.85,1,False,Leave at doorstep
+1420,Bangalore East,10-12,Tuesday,Letter,Individual,6.39,1,True,No special instructions
+1421,Bangalore South,3-5,Tuesday,Document,Business,12.83,1,False,Signature required
+1422,Bangalore East,12-2,Thursday,Parcel,Government,12.5,2,True,No special instructions
+1423,Bangalore South,12-2,Thursday,Package,Individual,10.07,1,True,No special instructions
+1424,Bangalore South,3-5,Thursday,Letter,Individual,7.23,1,False,Signature required
+1425,Bangalore East,12-2,Tuesday,Letter,Individual,8.08,1,True,Signature required
+1426,Bangalore Central,3-5,Friday,Document,Government,14.86,1,True,No special instructions
+1427,Bangalore North,12-2,Wednesday,Parcel,Individual,5.56,2,False,Call before delivery
+1428,Bangalore South,10-12,Saturday,Document,Government,6.49,1,True,Leave at doorstep
+1429,Bangalore East,3-5,Wednesday,Letter,Individual,9.04,1,False,Signature required
+1430,Bangalore East,3-5,Friday,Document,Government,4.82,2,False,Leave at doorstep
+1431,Bangalore South,3-5,Tuesday,Document,Individual,13.95,1,True,Leave at doorstep
+1432,Bangalore Central,12-2,Thursday,Letter,Government,12.9,1,True,Signature required
+1433,Bangalore Central,12-2,Wednesday,Package,Government,14.9,2,False,No special instructions
+1434,Bangalore East,10-12,Saturday,Document,Government,2.03,1,True,Leave at doorstep
+1435,Bangalore Central,3-5,Wednesday,Parcel,Government,9.76,1,False,Call before delivery
+1436,Bangalore Central,3-5,Friday,Parcel,Government,6.26,2,False,Signature required
+1437,Bangalore North,10-12,Friday,Parcel,Government,2.48,1,False,Signature required
+1438,Bangalore South,12-2,Tuesday,Document,Individual,11.04,2,True,Leave at doorstep
+1439,Bangalore South,3-5,Tuesday,Document,Government,4.96,2,False,Call before delivery
+1440,Bangalore North,3-5,Saturday,Parcel,Government,12.13,1,True,Signature required
+1441,Bangalore Central,10-12,Tuesday,Parcel,Government,8.47,1,True,Call before delivery
+1442,Bangalore East,3-5,Wednesday,Parcel,Business,14.55,2,True,Leave at doorstep
+1443,Bangalore Central,12-2,Thursday,Letter,Individual,4.99,1,True,Signature required
+1444,Bangalore Central,3-5,Saturday,Package,Business,5.53,1,False,No special instructions
+1445,Bangalore Central,10-12,Friday,Letter,Individual,7.64,1,False,No special instructions
+1446,Bangalore North,10-12,Thursday,Package,Government,1.82,1,False,No special instructions
+1447,Bangalore South,12-2,Thursday,Parcel,Business,14.56,2,True,Leave at doorstep
+1448,Bangalore North,3-5,Friday,Letter,Business,1.91,2,True,No special instructions
+1449,Bangalore Central,10-12,Thursday,Document,Government,2.93,2,False,Leave at doorstep
+1450,Bangalore East,12-2,Tuesday,Letter,Government,5.14,2,True,Signature required
+1451,Bangalore East,10-12,Tuesday,Parcel,Business,14.82,1,False,Signature required
+1452,Bangalore East,3-5,Monday,Letter,Individual,3.01,2,True,Leave at doorstep
+1453,Bangalore North,12-2,Friday,Package,Government,9.34,1,True,No special instructions
+1454,Bangalore East,10-12,Tuesday,Parcel,Government,6.02,1,False,Leave at doorstep
+1455,Bangalore Central,10-12,Tuesday,Package,Business,14.07,1,True,Call before delivery
+1456,Bangalore East,3-5,Monday,Package,Individual,9.82,1,False,No special instructions
+1457,Bangalore East,10-12,Wednesday,Parcel,Business,9.02,2,False,Signature required
+1458,Bangalore Central,12-2,Monday,Parcel,Government,13.45,2,True,Signature required
+1459,Bangalore North,10-12,Thursday,Parcel,Business,14.49,1,False,Call before delivery
+1460,Bangalore South,3-5,Wednesday,Package,Government,8.08,1,False,Call before delivery
+1461,Bangalore North,3-5,Tuesday,Letter,Government,2.18,1,True,Call before delivery
+1462,Bangalore Central,12-2,Saturday,Parcel,Individual,3.92,2,True,Leave at doorstep
+1463,Bangalore East,3-5,Friday,Parcel,Individual,1.78,2,True,No special instructions
+1464,Bangalore South,3-5,Monday,Document,Business,3.52,1,True,Signature required
+1465,Bangalore East,12-2,Saturday,Parcel,Government,2.03,1,True,Signature required
+1466,Bangalore North,12-2,Thursday,Letter,Government,9.89,2,False,Signature required
+1467,Bangalore North,12-2,Tuesday,Parcel,Government,6.25,1,False,Leave at doorstep
+1468,Bangalore North,10-12,Saturday,Letter,Business,5.17,2,True,Signature required
+1469,Bangalore South,12-2,Friday,Document,Business,10.75,2,False,Signature required
+1470,Bangalore South,3-5,Wednesday,Package,Business,4.08,2,True,Leave at doorstep
+1471,Bangalore Central,12-2,Wednesday,Parcel,Government,13.29,2,False,Leave at doorstep
+1472,Bangalore East,12-2,Wednesday,Parcel,Government,9.17,2,True,Signature required
+1473,Bangalore East,12-2,Saturday,Document,Government,13.09,2,False,Leave at doorstep
+1474,Bangalore East,10-12,Saturday,Document,Government,12.29,2,False,Call before delivery
+1475,Bangalore South,10-12,Monday,Document,Individual,13.54,1,False,Call before delivery
+1476,Bangalore South,10-12,Saturday,Package,Individual,7.19,2,False,Leave at doorstep
+1477,Bangalore East,3-5,Thursday,Parcel,Business,12.5,2,True,Call before delivery
+1478,Bangalore Central,10-12,Thursday,Letter,Government,13.86,2,False,No special instructions
+1479,Bangalore East,10-12,Monday,Letter,Business,7.78,2,True,Call before delivery
+1480,Bangalore Central,10-12,Monday,Package,Business,3.27,1,True,Signature required
+1481,Bangalore South,12-2,Tuesday,Document,Individual,5.28,1,True,Leave at doorstep
+1482,Bangalore East,3-5,Saturday,Document,Business,1.12,2,False,Call before delivery
+1483,Bangalore Central,3-5,Friday,Package,Business,1.07,1,False,No special instructions
+1484,Bangalore Central,10-12,Wednesday,Letter,Government,4.35,1,True,No special instructions
+1485,Bangalore Central,10-12,Friday,Letter,Government,9.53,1,True,Call before delivery
+1486,Bangalore South,10-12,Monday,Document,Government,2.23,1,True,Signature required
+1487,Bangalore East,12-2,Thursday,Letter,Government,10.12,1,True,No special instructions
+1488,Bangalore South,12-2,Tuesday,Package,Government,3.21,1,True,Signature required
+1489,Bangalore Central,10-12,Friday,Letter,Government,10.3,2,False,Leave at doorstep
+1490,Bangalore South,3-5,Friday,Parcel,Business,8.9,2,True,Signature required
+1491,Bangalore South,10-12,Friday,Letter,Individual,6.69,1,True,Signature required
+1492,Bangalore North,3-5,Wednesday,Parcel,Government,9.0,1,True,Signature required
+1493,Bangalore Central,12-2,Monday,Package,Business,5.5,2,True,No special instructions
+1494,Bangalore North,12-2,Saturday,Package,Government,2.77,2,True,Call before delivery
+1495,Bangalore East,12-2,Friday,Document,Business,7.97,1,True,No special instructions
+1496,Bangalore Central,3-5,Thursday,Letter,Government,8.91,1,False,Signature required
+1497,Bangalore Central,10-12,Tuesday,Document,Business,1.85,2,False,Signature required
+1498,Bangalore East,12-2,Tuesday,Letter,Government,9.76,1,True,No special instructions
+1499,Bangalore East,3-5,Thursday,Document,Individual,3.51,2,False,Leave at doorstep
+1500,Bangalore South,12-2,Wednesday,Document,Government,9.65,1,True,Signature required
+1501,Bangalore South,10-12,Friday,Parcel,Individual,14.96,2,True,No special instructions
+1502,Bangalore South,12-2,Thursday,Document,Government,4.8,1,True,Leave at doorstep
+1503,Bangalore Central,3-5,Monday,Document,Individual,8.55,2,False,Call before delivery
+1504,Bangalore Central,10-12,Wednesday,Parcel,Government,12.16,2,False,No special instructions
+1505,Bangalore South,12-2,Thursday,Package,Government,9.5,2,False,Call before delivery
+1506,Bangalore Central,12-2,Monday,Parcel,Government,9.66,1,True,Leave at doorstep
+1507,Bangalore South,10-12,Tuesday,Letter,Individual,12.2,2,True,Call before delivery
+1508,Bangalore North,12-2,Friday,Document,Individual,9.22,2,True,Call before delivery
+1509,Bangalore North,3-5,Thursday,Package,Business,5.44,2,True,Call before delivery
+1510,Bangalore South,3-5,Thursday,Document,Business,5.34,2,False,Signature required
+1511,Bangalore East,12-2,Saturday,Package,Business,2.82,1,False,Signature required
+1512,Bangalore East,3-5,Tuesday,Parcel,Business,3.67,2,True,Leave at doorstep
+1513,Bangalore East,12-2,Saturday,Parcel,Business,6.66,2,False,Call before delivery
+1514,Bangalore East,3-5,Tuesday,Package,Government,1.27,1,False,Signature required
+1515,Bangalore Central,12-2,Tuesday,Document,Government,4.99,2,True,Leave at doorstep
+1516,Bangalore North,3-5,Saturday,Letter,Government,7.21,2,False,Signature required
+1517,Bangalore Central,3-5,Tuesday,Parcel,Individual,10.52,2,False,No special instructions
+1518,Bangalore North,3-5,Saturday,Document,Government,8.67,1,True,Signature required
+1519,Bangalore North,10-12,Saturday,Package,Individual,3.72,2,True,Leave at doorstep
+1520,Bangalore Central,12-2,Thursday,Letter,Government,13.09,2,False,Leave at doorstep
+1521,Bangalore South,3-5,Tuesday,Document,Business,1.16,1,True,Call before delivery
+1522,Bangalore Central,12-2,Friday,Parcel,Individual,11.67,2,True,Call before delivery
+1523,Bangalore Central,12-2,Thursday,Letter,Government,8.24,1,True,Call before delivery
+1524,Bangalore North,10-12,Saturday,Document,Government,4.33,1,True,Call before delivery
+1525,Bangalore East,3-5,Monday,Package,Individual,6.61,1,True,Leave at doorstep
+1526,Bangalore North,3-5,Friday,Parcel,Business,6.59,2,False,Leave at doorstep
+1527,Bangalore North,12-2,Tuesday,Package,Government,5.58,1,True,Signature required
+1528,Bangalore East,10-12,Saturday,Letter,Government,8.91,2,False,Signature required
+1529,Bangalore North,12-2,Tuesday,Document,Individual,9.21,1,True,Call before delivery
+1530,Bangalore East,12-2,Thursday,Document,Business,10.98,2,True,Call before delivery
+1531,Bangalore East,12-2,Wednesday,Letter,Business,11.46,2,True,Leave at doorstep
+1532,Bangalore Central,3-5,Thursday,Letter,Individual,4.97,1,True,Leave at doorstep
+1533,Bangalore East,10-12,Saturday,Package,Government,1.42,1,False,Call before delivery
+1534,Bangalore North,12-2,Wednesday,Parcel,Government,10.05,1,False,Signature required
+1535,Bangalore South,10-12,Monday,Letter,Government,12.08,1,True,No special instructions
+1536,Bangalore Central,12-2,Saturday,Package,Business,11.41,2,False,Signature required
+1537,Bangalore East,3-5,Thursday,Document,Individual,3.77,1,True,Leave at doorstep
+1538,Bangalore East,12-2,Saturday,Document,Individual,9.84,2,True,Signature required
+1539,Bangalore South,12-2,Monday,Package,Individual,4.33,2,True,Call before delivery
+1540,Bangalore North,3-5,Tuesday,Letter,Business,2.58,2,True,Leave at doorstep
+1541,Bangalore North,12-2,Tuesday,Letter,Business,11.26,1,False,No special instructions
+1542,Bangalore Central,3-5,Friday,Letter,Government,8.34,2,False,Signature required
+1543,Bangalore East,3-5,Friday,Package,Individual,3.31,2,False,Leave at doorstep
+1544,Bangalore North,3-5,Thursday,Letter,Government,9.9,2,True,Call before delivery
+1545,Bangalore North,12-2,Monday,Package,Individual,8.25,1,True,No special instructions
+1546,Bangalore Central,12-2,Monday,Parcel,Government,7.13,2,False,No special instructions
+1547,Bangalore Central,12-2,Wednesday,Parcel,Government,4.86,1,False,Leave at doorstep
+1548,Bangalore Central,12-2,Saturday,Letter,Business,11.66,2,True,Signature required
+1549,Bangalore North,10-12,Friday,Parcel,Business,9.33,1,True,No special instructions
+1550,Bangalore East,10-12,Thursday,Package,Business,8.24,2,False,No special instructions
+1551,Bangalore North,10-12,Wednesday,Letter,Government,11.4,2,False,Call before delivery
+1552,Bangalore Central,12-2,Saturday,Parcel,Individual,10.12,1,False,No special instructions
+1553,Bangalore East,10-12,Thursday,Letter,Individual,12.03,2,False,Signature required
+1554,Bangalore East,12-2,Friday,Document,Individual,11.3,2,True,Call before delivery
+1555,Bangalore East,3-5,Saturday,Letter,Individual,6.71,1,True,No special instructions
+1556,Bangalore Central,10-12,Wednesday,Document,Government,11.95,1,False,No special instructions
+1557,Bangalore Central,3-5,Tuesday,Letter,Government,12.29,2,False,Call before delivery
+1558,Bangalore Central,12-2,Monday,Letter,Individual,10.53,2,True,Signature required
+1559,Bangalore North,10-12,Thursday,Parcel,Individual,4.99,2,False,No special instructions
+1560,Bangalore Central,10-12,Thursday,Document,Individual,1.45,2,True,Signature required
+1561,Bangalore South,10-12,Saturday,Document,Business,2.58,1,True,No special instructions
+1562,Bangalore North,10-12,Friday,Letter,Business,14.47,2,True,No special instructions
+1563,Bangalore Central,3-5,Saturday,Document,Individual,7.31,2,True,Call before delivery
+1564,Bangalore South,12-2,Friday,Parcel,Government,2.69,1,False,Call before delivery
+1565,Bangalore North,3-5,Friday,Parcel,Business,7.01,1,True,Signature required
+1566,Bangalore East,10-12,Monday,Parcel,Business,2.88,2,False,Signature required
+1567,Bangalore North,10-12,Friday,Parcel,Business,3.29,2,False,Call before delivery
+1568,Bangalore North,10-12,Monday,Parcel,Business,10.1,1,True,Call before delivery
+1569,Bangalore North,3-5,Monday,Parcel,Government,6.61,1,True,No special instructions
+1570,Bangalore East,12-2,Friday,Package,Business,2.86,1,False,Call before delivery
+1571,Bangalore North,12-2,Thursday,Package,Business,1.87,2,False,Call before delivery
+1572,Bangalore North,12-2,Saturday,Parcel,Government,10.02,1,True,Call before delivery
+1573,Bangalore North,3-5,Friday,Package,Individual,2.31,2,False,No special instructions
+1574,Bangalore South,10-12,Monday,Letter,Business,10.99,2,False,Call before delivery
+1575,Bangalore East,12-2,Wednesday,Document,Individual,11.21,1,True,Signature required
+1576,Bangalore Central,12-2,Saturday,Document,Individual,9.89,2,True,Call before delivery
+1577,Bangalore North,10-12,Tuesday,Document,Individual,4.71,1,True,Call before delivery
+1578,Bangalore North,10-12,Monday,Letter,Business,5.87,2,True,Leave at doorstep
+1579,Bangalore South,3-5,Saturday,Parcel,Business,4.58,1,False,No special instructions
+1580,Bangalore North,12-2,Saturday,Letter,Government,14.91,2,True,Leave at doorstep
+1581,Bangalore East,10-12,Friday,Document,Business,3.68,1,True,Signature required
+1582,Bangalore Central,10-12,Tuesday,Package,Government,3.01,1,False,No special instructions
+1583,Bangalore South,10-12,Thursday,Package,Government,3.64,1,True,Leave at doorstep
+1584,Bangalore North,12-2,Tuesday,Letter,Business,8.13,1,False,Leave at doorstep
+1585,Bangalore East,12-2,Saturday,Document,Government,14.23,1,True,No special instructions
+1586,Bangalore Central,10-12,Thursday,Letter,Business,6.61,2,False,Signature required
+1587,Bangalore Central,10-12,Monday,Letter,Government,7.37,2,True,Call before delivery
+1588,Bangalore North,12-2,Friday,Package,Government,13.98,1,False,No special instructions
+1589,Bangalore North,10-12,Friday,Package,Government,3.03,2,True,Leave at doorstep
+1590,Bangalore North,12-2,Monday,Package,Business,11.41,1,False,Leave at doorstep
+1591,Bangalore South,3-5,Monday,Parcel,Individual,2.52,2,False,No special instructions
+1592,Bangalore South,10-12,Thursday,Letter,Business,12.26,2,True,Signature required
+1593,Bangalore North,10-12,Monday,Document,Individual,9.03,2,True,Call before delivery
+1594,Bangalore East,3-5,Monday,Parcel,Government,1.93,2,False,No special instructions
+1595,Bangalore Central,3-5,Wednesday,Letter,Government,7.49,2,True,No special instructions
+1596,Bangalore South,3-5,Thursday,Document,Individual,2.25,2,False,Leave at doorstep
+1597,Bangalore South,10-12,Friday,Document,Individual,13.78,2,False,No special instructions
+1598,Bangalore North,10-12,Tuesday,Package,Individual,8.39,2,False,Leave at doorstep
+1599,Bangalore Central,12-2,Friday,Letter,Individual,11.94,1,False,Signature required
+1600,Bangalore Central,10-12,Thursday,Parcel,Individual,6.47,2,True,Call before delivery
+1601,Bangalore North,12-2,Monday,Letter,Business,10.25,1,False,Signature required
+1602,Bangalore South,10-12,Friday,Letter,Business,10.06,1,False,Leave at doorstep
+1603,Bangalore North,3-5,Thursday,Letter,Individual,1.12,2,True,Call before delivery
+1604,Bangalore Central,12-2,Saturday,Parcel,Business,7.18,2,False,No special instructions
+1605,Bangalore South,10-12,Saturday,Package,Business,6.92,2,False,Signature required
+1606,Bangalore Central,12-2,Saturday,Package,Individual,5.08,2,False,Signature required
+1607,Bangalore East,12-2,Wednesday,Letter,Business,13.94,2,False,Leave at doorstep
+1608,Bangalore North,12-2,Monday,Parcel,Government,11.44,2,False,Call before delivery
+1609,Bangalore Central,10-12,Monday,Package,Individual,7.55,1,True,No special instructions
+1610,Bangalore North,10-12,Saturday,Package,Individual,8.89,2,False,No special instructions
+1611,Bangalore East,12-2,Thursday,Letter,Business,4.35,1,False,Call before delivery
+1612,Bangalore South,12-2,Saturday,Document,Government,2.99,1,False,Call before delivery
+1613,Bangalore South,10-12,Saturday,Package,Government,13.55,2,False,Signature required
+1614,Bangalore South,10-12,Friday,Package,Individual,5.25,1,False,Call before delivery
+1615,Bangalore Central,12-2,Friday,Document,Individual,9.42,2,False,Signature required
+1616,Bangalore South,12-2,Thursday,Document,Individual,12.01,1,True,Call before delivery
+1617,Bangalore Central,3-5,Thursday,Package,Individual,4.14,1,True,Leave at doorstep
+1618,Bangalore East,3-5,Saturday,Package,Individual,2.0,1,False,No special instructions
+1619,Bangalore Central,12-2,Wednesday,Package,Individual,6.66,1,True,Leave at doorstep
+1620,Bangalore Central,3-5,Thursday,Package,Individual,12.71,2,False,Leave at doorstep
+1621,Bangalore South,10-12,Wednesday,Document,Government,5.09,1,False,Leave at doorstep
+1622,Bangalore Central,3-5,Tuesday,Letter,Individual,6.54,1,True,Signature required
+1623,Bangalore South,10-12,Wednesday,Letter,Government,7.02,2,True,No special instructions
+1624,Bangalore North,10-12,Wednesday,Parcel,Individual,10.04,2,True,No special instructions
+1625,Bangalore North,3-5,Monday,Letter,Individual,7.98,1,True,Call before delivery
+1626,Bangalore East,12-2,Saturday,Package,Business,5.1,2,False,Leave at doorstep
+1627,Bangalore East,3-5,Wednesday,Document,Individual,3.42,1,True,No special instructions
+1628,Bangalore East,3-5,Wednesday,Document,Individual,8.2,2,True,Leave at doorstep
+1629,Bangalore South,10-12,Monday,Document,Business,14.51,2,False,Call before delivery
+1630,Bangalore East,3-5,Friday,Parcel,Government,3.48,1,True,No special instructions
+1631,Bangalore East,10-12,Thursday,Document,Government,5.31,1,True,Call before delivery
+1632,Bangalore East,10-12,Thursday,Package,Government,14.62,2,False,Leave at doorstep
+1633,Bangalore East,3-5,Monday,Package,Business,4.92,1,False,Leave at doorstep
+1634,Bangalore Central,3-5,Thursday,Letter,Government,3.07,1,True,Signature required
+1635,Bangalore Central,10-12,Saturday,Package,Individual,3.65,1,True,No special instructions
+1636,Bangalore North,10-12,Tuesday,Package,Individual,14.96,1,False,Leave at doorstep
+1637,Bangalore East,3-5,Wednesday,Parcel,Individual,3.79,1,False,No special instructions
+1638,Bangalore North,12-2,Friday,Letter,Government,3.93,1,False,Leave at doorstep
+1639,Bangalore East,12-2,Wednesday,Parcel,Individual,1.63,1,True,Leave at doorstep
+1640,Bangalore South,12-2,Tuesday,Parcel,Government,11.09,2,False,Call before delivery
+1641,Bangalore North,10-12,Friday,Parcel,Government,2.95,1,True,Signature required
+1642,Bangalore Central,3-5,Wednesday,Letter,Individual,6.89,2,True,Signature required
+1643,Bangalore Central,10-12,Friday,Package,Government,4.16,2,False,Leave at doorstep
+1644,Bangalore North,12-2,Friday,Letter,Business,6.22,2,False,Call before delivery
+1645,Bangalore Central,3-5,Friday,Letter,Government,4.4,1,False,Call before delivery
+1646,Bangalore Central,10-12,Wednesday,Parcel,Government,12.88,1,True,Signature required
+1647,Bangalore Central,3-5,Monday,Parcel,Individual,4.77,2,False,Leave at doorstep
+1648,Bangalore North,12-2,Saturday,Document,Business,6.31,2,False,Signature required
+1649,Bangalore South,3-5,Thursday,Letter,Government,11.14,2,False,No special instructions
+1650,Bangalore South,3-5,Tuesday,Document,Government,10.78,2,True,Leave at doorstep
+1651,Bangalore South,12-2,Thursday,Document,Business,11.95,2,True,Call before delivery
+1652,Bangalore East,10-12,Friday,Letter,Government,5.08,2,True,Leave at doorstep
+1653,Bangalore North,3-5,Friday,Letter,Individual,7.83,1,False,Leave at doorstep
+1654,Bangalore South,10-12,Tuesday,Parcel,Individual,4.31,1,False,Signature required
+1655,Bangalore South,3-5,Thursday,Parcel,Government,14.79,2,True,Leave at doorstep
+1656,Bangalore South,3-5,Tuesday,Letter,Business,13.56,2,True,No special instructions
+1657,Bangalore North,12-2,Monday,Package,Government,11.24,2,False,No special instructions
+1658,Bangalore South,12-2,Thursday,Letter,Individual,4.57,1,True,Leave at doorstep
+1659,Bangalore East,12-2,Saturday,Package,Individual,8.96,2,True,No special instructions
+1660,Bangalore North,12-2,Thursday,Parcel,Individual,4.8,2,True,No special instructions
+1661,Bangalore East,12-2,Thursday,Document,Government,11.32,2,True,No special instructions
+1662,Bangalore South,10-12,Friday,Document,Individual,4.4,2,True,Call before delivery
+1663,Bangalore South,3-5,Monday,Package,Individual,1.05,2,False,No special instructions
+1664,Bangalore South,12-2,Tuesday,Package,Government,7.88,1,True,Call before delivery
+1665,Bangalore North,10-12,Tuesday,Document,Individual,10.19,2,True,Call before delivery
+1666,Bangalore Central,10-12,Thursday,Parcel,Individual,11.94,2,False,Leave at doorstep
+1667,Bangalore North,3-5,Thursday,Package,Business,13.61,2,True,Signature required
+1668,Bangalore East,3-5,Wednesday,Parcel,Government,10.98,2,False,Call before delivery
+1669,Bangalore Central,10-12,Saturday,Document,Business,12.6,2,False,No special instructions
+1670,Bangalore South,12-2,Friday,Package,Business,12.68,2,True,No special instructions
+1671,Bangalore East,3-5,Wednesday,Letter,Government,12.59,2,True,Leave at doorstep
+1672,Bangalore South,12-2,Monday,Letter,Business,7.41,1,False,Call before delivery
+1673,Bangalore North,12-2,Monday,Letter,Business,11.5,1,False,Call before delivery
+1674,Bangalore North,12-2,Monday,Letter,Individual,11.7,1,True,No special instructions
+1675,Bangalore South,12-2,Saturday,Package,Business,2.67,1,True,Signature required
+1676,Bangalore Central,3-5,Tuesday,Document,Government,14.57,1,False,Call before delivery
+1677,Bangalore South,10-12,Friday,Parcel,Individual,9.28,1,False,Call before delivery
+1678,Bangalore East,10-12,Tuesday,Parcel,Individual,2.26,1,False,Leave at doorstep
+1679,Bangalore Central,12-2,Saturday,Letter,Government,9.61,1,True,Signature required
+1680,Bangalore East,12-2,Monday,Parcel,Government,3.91,1,False,No special instructions
+1681,Bangalore North,12-2,Friday,Letter,Government,14.95,2,True,Leave at doorstep
+1682,Bangalore South,3-5,Saturday,Package,Government,12.49,1,False,Call before delivery
+1683,Bangalore North,10-12,Saturday,Parcel,Government,10.36,1,False,Signature required
+1684,Bangalore North,12-2,Thursday,Document,Individual,3.25,1,False,Leave at doorstep
+1685,Bangalore North,3-5,Thursday,Document,Government,6.34,2,True,No special instructions
+1686,Bangalore North,10-12,Saturday,Package,Business,14.83,2,True,Signature required
+1687,Bangalore South,10-12,Friday,Parcel,Government,11.14,2,True,Call before delivery
+1688,Bangalore East,3-5,Wednesday,Package,Government,3.61,1,True,Leave at doorstep
+1689,Bangalore North,3-5,Monday,Document,Government,13.54,1,False,No special instructions
+1690,Bangalore East,10-12,Tuesday,Parcel,Individual,1.55,2,False,Signature required
+1691,Bangalore South,10-12,Thursday,Letter,Individual,14.35,2,True,Leave at doorstep
+1692,Bangalore Central,10-12,Monday,Parcel,Individual,14.02,1,True,No special instructions
+1693,Bangalore South,12-2,Friday,Document,Business,9.19,1,True,Leave at doorstep
+1694,Bangalore East,10-12,Wednesday,Parcel,Individual,7.33,1,True,Signature required
+1695,Bangalore Central,12-2,Monday,Parcel,Individual,3.86,2,False,Call before delivery
+1696,Bangalore North,3-5,Friday,Package,Business,9.82,2,True,No special instructions
+1697,Bangalore South,10-12,Wednesday,Letter,Business,11.72,2,True,Call before delivery
+1698,Bangalore North,12-2,Saturday,Letter,Business,14.94,2,True,Call before delivery
+1699,Bangalore North,3-5,Monday,Package,Government,7.7,1,True,Signature required
+1700,Bangalore East,3-5,Saturday,Letter,Business,5.01,1,True,Call before delivery
+1701,Bangalore South,10-12,Saturday,Letter,Government,3.67,1,True,Call before delivery
+1702,Bangalore Central,12-2,Friday,Document,Business,8.49,2,False,No special instructions
+1703,Bangalore South,12-2,Friday,Parcel,Government,10.75,2,True,Leave at doorstep
+1704,Bangalore South,12-2,Thursday,Letter,Government,14.34,1,True,Signature required
+1705,Bangalore North,12-2,Wednesday,Document,Individual,7.12,1,False,Call before delivery
+1706,Bangalore South,3-5,Tuesday,Document,Government,14.98,2,True,Call before delivery
+1707,Bangalore North,10-12,Saturday,Parcel,Government,5.74,1,False,Signature required
+1708,Bangalore East,3-5,Wednesday,Document,Government,9.1,1,False,No special instructions
+1709,Bangalore Central,10-12,Thursday,Document,Business,14.33,1,False,Signature required
+1710,Bangalore North,12-2,Monday,Letter,Business,12.8,2,False,Leave at doorstep
+1711,Bangalore East,3-5,Tuesday,Letter,Individual,5.52,1,False,Signature required
+1712,Bangalore East,12-2,Tuesday,Parcel,Individual,9.75,1,False,Leave at doorstep
+1713,Bangalore Central,3-5,Monday,Package,Government,11.58,1,True,Leave at doorstep
+1714,Bangalore North,10-12,Wednesday,Package,Business,5.21,2,True,Call before delivery
+1715,Bangalore East,10-12,Saturday,Parcel,Government,14.26,1,False,Call before delivery
+1716,Bangalore North,12-2,Wednesday,Parcel,Individual,10.45,1,True,No special instructions
+1717,Bangalore North,3-5,Wednesday,Document,Government,13.39,2,True,Leave at doorstep
+1718,Bangalore Central,12-2,Saturday,Parcel,Business,1.29,1,True,Call before delivery
+1719,Bangalore East,10-12,Saturday,Parcel,Government,12.29,2,False,Call before delivery
+1720,Bangalore East,12-2,Tuesday,Package,Business,1.49,2,False,Call before delivery
+1721,Bangalore South,10-12,Monday,Letter,Individual,7.7,1,False,Leave at doorstep
+1722,Bangalore East,10-12,Friday,Letter,Business,3.38,1,False,Leave at doorstep
+1723,Bangalore Central,3-5,Saturday,Document,Government,7.73,1,True,No special instructions
+1724,Bangalore East,12-2,Tuesday,Package,Business,6.05,2,True,Signature required
+1725,Bangalore East,3-5,Friday,Letter,Business,3.92,2,False,No special instructions
+1726,Bangalore North,3-5,Monday,Letter,Business,3.59,1,False,Leave at doorstep
+1727,Bangalore Central,12-2,Tuesday,Document,Business,3.27,1,False,Signature required
+1728,Bangalore East,10-12,Monday,Parcel,Business,6.4,2,True,Call before delivery
+1729,Bangalore East,10-12,Friday,Document,Business,10.42,2,True,Leave at doorstep
+1730,Bangalore East,10-12,Tuesday,Parcel,Individual,9.42,1,False,Leave at doorstep
+1731,Bangalore North,12-2,Friday,Parcel,Individual,5.73,1,False,Signature required
+1732,Bangalore Central,12-2,Friday,Package,Business,10.29,1,True,Signature required
+1733,Bangalore South,10-12,Friday,Parcel,Individual,3.65,2,False,No special instructions
+1734,Bangalore Central,3-5,Tuesday,Letter,Government,12.65,2,False,Call before delivery
+1735,Bangalore Central,10-12,Tuesday,Package,Government,9.07,1,False,No special instructions
+1736,Bangalore Central,10-12,Tuesday,Document,Business,1.18,1,False,Signature required
+1737,Bangalore South,3-5,Thursday,Letter,Business,12.4,2,True,Call before delivery
+1738,Bangalore South,3-5,Friday,Letter,Government,13.3,2,False,No special instructions
+1739,Bangalore South,10-12,Wednesday,Parcel,Business,8.42,2,False,Signature required
+1740,Bangalore North,10-12,Thursday,Letter,Government,7.39,2,True,Leave at doorstep
+1741,Bangalore Central,12-2,Tuesday,Letter,Business,12.44,1,False,Signature required
+1742,Bangalore East,3-5,Tuesday,Document,Government,1.14,2,True,Leave at doorstep
+1743,Bangalore East,10-12,Tuesday,Parcel,Business,13.27,1,False,Leave at doorstep
+1744,Bangalore North,10-12,Wednesday,Document,Individual,8.34,1,True,Leave at doorstep
+1745,Bangalore North,10-12,Monday,Letter,Individual,12.3,2,False,Signature required
+1746,Bangalore East,10-12,Friday,Parcel,Government,14.19,1,True,Call before delivery
+1747,Bangalore South,12-2,Friday,Letter,Business,10.12,2,False,Call before delivery
+1748,Bangalore East,12-2,Wednesday,Letter,Business,1.57,2,True,Signature required
+1749,Bangalore East,10-12,Tuesday,Document,Individual,11.1,2,True,Call before delivery
+1750,Bangalore East,12-2,Tuesday,Document,Individual,6.75,1,False,Leave at doorstep
+1751,Bangalore North,10-12,Saturday,Package,Individual,12.68,2,False,Leave at doorstep
+1752,Bangalore East,10-12,Friday,Letter,Government,8.87,2,False,Leave at doorstep
+1753,Bangalore North,3-5,Thursday,Letter,Government,2.97,2,True,No special instructions
+1754,Bangalore East,3-5,Saturday,Package,Government,13.36,2,True,Signature required
+1755,Bangalore North,12-2,Tuesday,Letter,Business,3.79,1,False,No special instructions
+1756,Bangalore East,12-2,Monday,Document,Individual,8.91,1,False,Call before delivery
+1757,Bangalore South,12-2,Tuesday,Parcel,Individual,12.26,1,True,Signature required
+1758,Bangalore North,10-12,Saturday,Document,Business,11.78,1,True,Leave at doorstep
+1759,Bangalore North,10-12,Saturday,Parcel,Business,6.41,1,True,Signature required
+1760,Bangalore Central,3-5,Monday,Parcel,Individual,2.75,2,False,Leave at doorstep
+1761,Bangalore East,12-2,Thursday,Package,Individual,12.83,1,True,No special instructions
+1762,Bangalore East,12-2,Saturday,Letter,Government,1.73,1,True,Signature required
+1763,Bangalore Central,12-2,Wednesday,Letter,Individual,1.61,1,True,No special instructions
+1764,Bangalore Central,3-5,Monday,Letter,Business,12.03,1,True,Signature required
+1765,Bangalore North,10-12,Saturday,Document,Government,2.13,1,False,Call before delivery
+1766,Bangalore South,3-5,Tuesday,Letter,Government,11.15,2,True,No special instructions
+1767,Bangalore South,12-2,Saturday,Letter,Individual,14.24,1,True,Call before delivery
+1768,Bangalore South,10-12,Wednesday,Parcel,Individual,11.14,1,False,No special instructions
+1769,Bangalore North,3-5,Friday,Letter,Business,10.82,2,True,Leave at doorstep
+1770,Bangalore South,10-12,Monday,Letter,Business,11.75,2,False,Call before delivery
+1771,Bangalore Central,10-12,Friday,Parcel,Individual,5.48,2,False,Signature required
+1772,Bangalore North,10-12,Friday,Parcel,Individual,4.2,1,False,Leave at doorstep
+1773,Bangalore Central,3-5,Monday,Document,Government,14.63,2,True,Call before delivery
+1774,Bangalore Central,10-12,Wednesday,Letter,Individual,14.35,2,False,Signature required
+1775,Bangalore South,3-5,Tuesday,Document,Business,5.36,2,False,Signature required
+1776,Bangalore Central,12-2,Wednesday,Package,Government,11.95,1,False,Signature required
+1777,Bangalore Central,10-12,Wednesday,Package,Government,14.21,2,False,Signature required
+1778,Bangalore East,10-12,Tuesday,Letter,Business,13.45,2,False,Signature required
+1779,Bangalore Central,10-12,Friday,Letter,Government,5.93,2,False,Leave at doorstep
+1780,Bangalore South,10-12,Friday,Parcel,Individual,2.75,1,True,Call before delivery
+1781,Bangalore North,12-2,Friday,Letter,Business,2.04,1,True,Call before delivery
+1782,Bangalore East,3-5,Wednesday,Parcel,Government,6.25,1,False,Signature required
+1783,Bangalore North,3-5,Wednesday,Document,Individual,6.28,1,False,No special instructions
+1784,Bangalore North,12-2,Tuesday,Letter,Business,6.93,1,True,Signature required
+1785,Bangalore South,10-12,Tuesday,Package,Individual,14.66,1,False,Signature required
+1786,Bangalore Central,10-12,Monday,Letter,Government,1.75,1,False,Call before delivery
+1787,Bangalore Central,12-2,Tuesday,Document,Business,13.43,1,False,Call before delivery
+1788,Bangalore North,12-2,Thursday,Letter,Government,13.59,1,True,Call before delivery
+1789,Bangalore Central,10-12,Wednesday,Letter,Government,11.92,2,True,Signature required
+1790,Bangalore East,3-5,Thursday,Parcel,Government,2.62,2,True,Call before delivery
+1791,Bangalore North,12-2,Saturday,Document,Business,9.79,2,False,Signature required
+1792,Bangalore South,10-12,Friday,Package,Individual,4.63,2,False,Call before delivery
+1793,Bangalore North,3-5,Friday,Letter,Government,4.32,1,True,No special instructions
+1794,Bangalore Central,12-2,Monday,Letter,Business,13.51,1,True,Leave at doorstep
+1795,Bangalore North,3-5,Monday,Letter,Business,14.87,1,True,Leave at doorstep
+1796,Bangalore North,12-2,Saturday,Package,Individual,2.74,1,True,Signature required
+1797,Bangalore East,3-5,Thursday,Parcel,Individual,11.67,2,True,Call before delivery
+1798,Bangalore Central,3-5,Friday,Letter,Individual,6.29,1,True,Signature required
+1799,Bangalore East,3-5,Saturday,Document,Individual,7.88,2,False,Call before delivery
+1800,Bangalore Central,10-12,Tuesday,Letter,Government,6.04,2,False,Leave at doorstep
+1801,Bangalore North,3-5,Wednesday,Parcel,Individual,13.54,2,True,Signature required
+1802,Bangalore Central,12-2,Wednesday,Letter,Business,6.3,1,False,Leave at doorstep
+1803,Bangalore North,10-12,Wednesday,Document,Individual,11.95,2,False,No special instructions
+1804,Bangalore North,10-12,Friday,Package,Business,12.04,2,False,Leave at doorstep
+1805,Bangalore North,3-5,Friday,Letter,Business,13.92,1,True,Call before delivery
+1806,Bangalore Central,10-12,Thursday,Document,Government,2.4,1,True,No special instructions
+1807,Bangalore East,3-5,Monday,Package,Government,9.29,1,True,Leave at doorstep
+1808,Bangalore North,12-2,Monday,Document,Business,13.35,1,False,No special instructions
+1809,Bangalore East,12-2,Tuesday,Letter,Government,12.55,1,False,Signature required
+1810,Bangalore South,10-12,Friday,Letter,Individual,7.04,1,False,Call before delivery
+1811,Bangalore North,12-2,Wednesday,Parcel,Government,4.96,2,False,Call before delivery
+1812,Bangalore South,10-12,Tuesday,Package,Business,10.99,1,False,No special instructions
+1813,Bangalore East,12-2,Tuesday,Letter,Individual,10.72,2,False,No special instructions
+1814,Bangalore East,10-12,Tuesday,Document,Government,9.25,1,True,Call before delivery
+1815,Bangalore South,3-5,Tuesday,Document,Individual,14.4,1,False,Leave at doorstep
+1816,Bangalore East,12-2,Friday,Document,Government,2.83,2,False,No special instructions
+1817,Bangalore East,3-5,Thursday,Package,Business,9.05,1,True,Signature required
+1818,Bangalore South,12-2,Monday,Letter,Government,11.55,2,True,Signature required
+1819,Bangalore North,12-2,Tuesday,Letter,Business,3.04,2,True,No special instructions
+1820,Bangalore North,10-12,Wednesday,Parcel,Individual,2.1,1,False,Leave at doorstep
+1821,Bangalore East,10-12,Thursday,Parcel,Government,3.59,1,False,Call before delivery
+1822,Bangalore North,3-5,Saturday,Package,Government,13.1,1,False,Leave at doorstep
+1823,Bangalore North,3-5,Monday,Document,Government,14.47,1,False,Signature required
+1824,Bangalore Central,12-2,Wednesday,Document,Individual,14.0,1,False,Call before delivery
+1825,Bangalore North,10-12,Wednesday,Package,Business,7.28,2,True,Signature required
+1826,Bangalore North,12-2,Wednesday,Package,Government,14.88,2,False,No special instructions
+1827,Bangalore South,10-12,Monday,Document,Individual,9.58,1,True,Signature required
+1828,Bangalore Central,3-5,Saturday,Document,Government,2.17,1,True,Leave at doorstep
+1829,Bangalore North,3-5,Tuesday,Document,Government,5.85,2,True,Signature required
+1830,Bangalore Central,12-2,Monday,Document,Individual,14.56,2,True,Signature required
+1831,Bangalore South,10-12,Monday,Package,Individual,12.9,2,False,Signature required
+1832,Bangalore North,3-5,Tuesday,Letter,Individual,8.3,1,False,Call before delivery
+1833,Bangalore East,3-5,Wednesday,Document,Individual,8.7,1,True,Leave at doorstep
+1834,Bangalore North,3-5,Saturday,Document,Business,11.74,2,True,Leave at doorstep
+1835,Bangalore Central,3-5,Thursday,Document,Individual,1.98,1,True,Signature required
+1836,Bangalore North,10-12,Tuesday,Package,Business,3.36,2,False,Call before delivery
+1837,Bangalore North,12-2,Tuesday,Document,Individual,3.65,2,False,Leave at doorstep
+1838,Bangalore East,12-2,Monday,Package,Individual,4.58,1,True,Signature required
+1839,Bangalore South,3-5,Friday,Parcel,Individual,9.5,2,True,Leave at doorstep
+1840,Bangalore South,10-12,Tuesday,Package,Individual,13.25,1,False,No special instructions
+1841,Bangalore East,3-5,Thursday,Letter,Business,1.6,2,True,Call before delivery
+1842,Bangalore Central,10-12,Thursday,Document,Business,2.86,2,True,No special instructions
+1843,Bangalore North,12-2,Saturday,Parcel,Business,6.68,2,False,Signature required
+1844,Bangalore South,10-12,Friday,Document,Business,2.39,2,False,Leave at doorstep
+1845,Bangalore Central,10-12,Saturday,Parcel,Government,7.7,2,False,No special instructions
+1846,Bangalore East,12-2,Saturday,Letter,Individual,5.22,1,False,No special instructions
+1847,Bangalore Central,3-5,Thursday,Package,Government,6.45,1,False,Signature required
+1848,Bangalore Central,10-12,Saturday,Document,Government,14.75,1,False,Call before delivery
+1849,Bangalore North,3-5,Tuesday,Package,Business,12.52,1,False,Signature required
+1850,Bangalore East,3-5,Friday,Document,Government,12.15,1,True,Call before delivery
+1851,Bangalore North,10-12,Monday,Letter,Government,7.15,1,True,Signature required
+1852,Bangalore North,10-12,Monday,Document,Government,5.75,1,True,Call before delivery
+1853,Bangalore North,3-5,Wednesday,Parcel,Individual,9.6,1,False,No special instructions
+1854,Bangalore Central,12-2,Thursday,Package,Government,4.74,2,True,Leave at doorstep
+1855,Bangalore East,12-2,Wednesday,Document,Business,2.84,2,False,Signature required
