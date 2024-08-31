@@ -18,21 +18,17 @@ def gemini_response(query):
 with open("Data.json") as fh: 
     values = json.load(fh)
 
-p1 = f"You are a report generating model for the indian post , your task is to generate the most optimal reports for the given data\noverall success rate {values['overall_success']}\noverall failure rate{values['overall_failure']}\nSuccess Rate Bangalore Central : {values['succ_blr_c']}\nSuccess Rate Bangalore East : {values['succ_blr_e']}Success Rate Bangalore North : {values['succ_blr_n']}\nSuccess Rate Bangalore South : 0.612\nCompare the success and failure rate and provide a small report on the same (keep it very short and to the point).Also list down all the other values\nmention why we'll need to use AI based personalization and predictive time slot delivery to resuce the failure rate ini short/1-2 points, dont provide a heading"
-#r1 = gemini_response(p1)
-r1 = "None"
+p1 = f"You are a report generating model for the indian post , your task is to generate the most optimal reports for the given data\noverall success rate {values['overall_success']}\noverall failure rate{values['overall_failure']}\nSuccess Rate Bangalore Central : {values['succ_blr_c']}\nSuccess Rate Bangalore East : {values['succ_blr_e']}Success Rate Bangalore North : {values['succ_blr_n']}\nSuccess Rate Bangalore South : 0.612\nCompare the success and failure rate and provide a small report on the same (keep it very short and to the point).Also list down all the other values\nmention why we'll need to use AI based personalization and predictive time slot delivery to resuce the failure rate ini short/1-2 points, dont provide a heading.\navoid markdown formatting\nadd proper spacing and formattin in the report"
+r1 = gemini_response(p1)
 
-p2 = f"You are a report generating model for the indian post , based on the XGBoosting Model generated outputs , generate a report for the following values and parameters\nMost Optimal Time Slots\nBangalore Central : {values['slot_blr_c']}\nBangalore East : {values['slot_blr_e']}\nBangalore North : {values['slot_blr_n']}\nBangalore South : {values['slot_blr_s']}\nGenerate a small and consise report based on the same."
-#r2 = gemini_report(p2) 
-r2 = "None"
+p2 = f"You are a report generating model for the indian post , based on the XGBoosting Model generated outputs , generate a report for the following values and parameters\nMost Optimal Time Slots\nBangalore Central : {values['slot_blr_c']}\nBangalore East : {values['slot_blr_e']}\nBangalore North : {values['slot_blr_n']}\nBangalore South : {values['slot_blr_s']}\nGenerate a small and consise report based on the same.\navoid markdown formatting\nadd proper spacing and formattin in the report"
+r2 = gemini_response(p2) 
 
-p3 = f"You are a report generating model for the indian post, based on the XGBoosting Model Generated outputs , generate a report for the following values and parameters\nMost Optimal Deliver Day\nBangalore Central : Thursday\nBangalore East : Wednesday\nBangalore North : Friday\nBangalore South : Wednesday\nGenerate a small and consise report based on the same"
-#r3 = gemini_response(p3) 
-r3 = "None" 
+p3 = f"You are a report generating model for the indian post, based on the XGBoosting Model Generated outputs , generate a report for the following values and parameters\nMost Optimal Deliver Day\nBangalore Central : Thursday\nBangalore East : Wednesday\nBangalore North : Friday\nBangalore South : Wednesday\nGenerate a small and consise report based on the same.\navoid markdown formatting\nadd proper spacing and formattin in the report"
+r3 = gemini_response(p3) 
 
-p4 = f"You are a report generating model for the indian post, based on the XGBoosting Model Generated outputs, generate a final report of the most optimal day and delivery time for a given region\nMost Optimal Delivery Day : Friday\nMost Optimal Delivery Slot : 10am-12pm"
-#r4 = gemini_response(p4)
-r4 = "None"
+p4 = f"You are a report generating model for the indian post, based on the XGBoosting Model Generated outputs, generate a final report of the most optimal day and delivery time for a given region which is Bangalore\nMost Optimal Delivery Day : Friday\nMost Optimal Delivery Slot : 10am-12pm.\navoid markdown formatting\nadd proper spacing and formattin in the report"
+r4 = gemini_response(p4)
 
 st.set_page_config(page_title="India Post", layout="wide")
 st.markdown("""
@@ -133,7 +129,7 @@ if uploaded_file is not None:
     st.subheader("Most Optimal Delivery Day Region Wise")
     st.markdown(f"""
         <div class="markdown-text">
-        {r2}
+        {r3}
         """, unsafe_allow_html=True)
     d3 = Image.open("Images\\Region Wise Delivery Success.png")
 
@@ -150,7 +146,7 @@ if uploaded_file is not None:
     st.subheader("Most Optimal Delivery Day And Time Slot")
     st.markdown(f"""
         <div class="markdown-text">
-        {r2}
+        {r4}
         """, unsafe_allow_html=True)
     d4 = Image.open("Images\\Heatmap.png")
 
